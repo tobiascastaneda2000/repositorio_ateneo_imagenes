@@ -1,6 +1,6 @@
 export const Img = ({ id, text }) => {
   return (
-    <div className="card m-5 text-center" style={{ width: "13rem" }}>
+    <div className="card m-5 text-center " style={{ width: "13rem" }}>
       {/* <img src="..." className="card-img-top" alt="..." /> */}
       <div className="card-body">
         <h5 className="card-title">{text}</h5>
