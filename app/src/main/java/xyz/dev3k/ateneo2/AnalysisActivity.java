@@ -5,6 +5,7 @@ import static androidx.constraintlayout.helper.widget.MotionEffect.TAG;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
+
 import android.content.Intent;
 import android.graphics.Point;
 import android.graphics.Rect;
@@ -23,6 +24,11 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.FirebaseApp;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.firestore.DocumentReference;
+import com.google.firebase.firestore.FirebaseFirestore;
+import com.google.firebase.storage.FirebaseStorage;
+import com.google.firebase.storage.StorageReference;
+import com.google.firebase.storage.UploadTask;
 import com.google.mlkit.vision.common.InputImage;
 import com.google.mlkit.vision.label.ImageLabel;
 import com.google.mlkit.vision.label.ImageLabeler;
@@ -40,7 +46,9 @@ import com.google.mlkit.vision.text.latin.TextRecognizerOptions;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.UUID;
 
 import xyz.dev3k.ateneo2.model.ImagenEtiquetada;
@@ -50,8 +58,11 @@ public class AnalysisActivity extends AppCompatActivity implements View.OnClickL
     private InputImage imageInput;
     private Task<Text> result;
     private Task<Pose> resultPoses;
-    FirebaseDatabase database;
-    DatabaseReference myRef;
+    FirebaseFirestore db = FirebaseFirestore.getInstance();
+    //Reference Firebase starage
+    FirebaseStorage storage = FirebaseStorage.getInstance();
+    // Create a Cloud Storage reference from the app
+    StorageReference storageRef= storage.getReference();
     // To use default options:
     ImageLabeler labeler = ImageLabeling.getClient(ImageLabelerOptions.DEFAULT_OPTIONS);
 
@@ -79,27 +90,29 @@ public class AnalysisActivity extends AppCompatActivity implements View.OnClickL
         buttonAnalyzer.setOnClickListener(this);
         buttonPosesDetect.setOnClickListener(this);
 
-        inicializarFirebase();
+        // inicializarFirebase();
 
     }
 
-    private void inicializarFirebase() {
-        FirebaseApp.initializeApp(this);
-        database = FirebaseDatabase.getInstance();
-        myRef = database.getReference();
-    }
+    /**
+     * private void inicializarFirebase() {
+     * FirebaseApp.initializeApp(this);
+     * database = FirebaseDatabase.getInstance();
+     * myRef = database.getReference();
+     * }
+     */
 
     public void cargarImagen() {
         Intent intent = new Intent(Intent.ACTION_PICK, MediaStore.Images.Media.EXTERNAL_CONTENT_URI);
         intent.setType("image/");
         startActivityForResult(intent.createChooser(intent, "Seleccione la aplicación"), 10);
     }
-
+    Uri path;
     @Override
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
         if (resultCode == RESULT_OK) {
-            Uri path = data.getData();
+            path = data.getData();
             image.setImageURI(path);
 
             try {
@@ -128,6 +141,7 @@ public class AnalysisActivity extends AppCompatActivity implements View.OnClickL
     public void etiquetarImagen() {
         labeler.process(imageInput)
                 .addOnSuccessListener(new OnSuccessListener<List<ImageLabel>>() {
+
                     @Override
                     public void onSuccess(List<ImageLabel> labels) {
                         Toast.makeText(AnalysisActivity.this, "Etiquetas:", Toast.LENGTH_SHORT).show();
@@ -135,12 +149,38 @@ public class AnalysisActivity extends AppCompatActivity implements View.OnClickL
                             String text = label.getText();
                             float confidence = label.getConfidence();//grado de confianza de la etiqueta
                             int index = label.getIndex();
-                            //Toast.makeText(AnalysisActivity.this, text, Toast.LENGTH_SHORT).show();
-                            //Log.d(TAG, "Etiqueta: " + labels);
+                            Toast.makeText(AnalysisActivity.this, text, Toast.LENGTH_SHORT).show();
+                            Log.d(TAG, "Etiqueta: " + labels);
                         }
-                        ImagenEtiquetada imagenEtiquetada = new ImagenEtiquetada(UUID.randomUUID().toString(),labels);
-                        myRef.child("ImagenesEtiquetadas").child(imagenEtiquetada.getId()).setValue(imagenEtiquetada);
+                        // Create a reference
+                        StorageReference filePath = storageRef.child(path.getPath());
+
+                        filePath.putFile(path).addOnSuccessListener(new OnSuccessListener<UploadTask.TaskSnapshot>() {
+                            @Override
+                            public void onSuccess(UploadTask.TaskSnapshot taskSnapshot) {
+                                Toast.makeText(AnalysisActivity.this, "Imagen guardada en storage", Toast.LENGTH_SHORT).show();
+                            }
+                        });
+                        ImagenEtiquetada imagenEtiquetada = new ImagenEtiquetada(UUID.randomUUID().toString(), filePath.getPath(),labels);
+                        //myRef.child("ImagenesEtiquetadas").child(imagenEtiquetada.getId()).setValue(imagenEtiquetada);
+                        Map<String, Object> imagenDB = new HashMap<>();
+                        imagenDB.put(imagenEtiquetada.getId(), imagenEtiquetada);
+                        db.collection("ImagenesEtiquetadas")
+                                .add(imagenDB)
+                                .addOnSuccessListener(new OnSuccessListener<DocumentReference>() {
+                                    @Override
+                                    public void onSuccess(DocumentReference documentReference) {
+                                        Log.d(TAG, "DocumentSnapshot added with ID: " + documentReference.getId());
+                                    }
+                                })
+                                .addOnFailureListener(new OnFailureListener() {
+                                    @Override
+                                    public void onFailure(@NonNull Exception e) {
+                                        Log.w(TAG, "Error adding document", e);
+                                    }
+                                });
                         Toast.makeText(AnalysisActivity.this, "Imagen etiquetada y guardada", Toast.LENGTH_SHORT).show();
+
                     }
                 })
                 .addOnFailureListener(new OnFailureListener() {
@@ -249,8 +289,8 @@ public class AnalysisActivity extends AppCompatActivity implements View.OnClickL
                                 });
     }
 
-    private void printPoseLandmark(List<PoseLandmark> allPoseLandmarks){
-        for (PoseLandmark pose: allPoseLandmarks) {
+    private void printPoseLandmark(List<PoseLandmark> allPoseLandmarks) {
+        for (PoseLandmark pose : allPoseLandmarks) {
             pose.toString();
             pose.getPosition().toString();
             Toast.makeText(AnalysisActivity.this, pose.getPosition().toString(), Toast.LENGTH_SHORT).show();

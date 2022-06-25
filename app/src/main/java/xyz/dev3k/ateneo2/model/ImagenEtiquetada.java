@@ -7,12 +7,12 @@ import java.util.List;
 
 public class ImagenEtiquetada {
     private String id;
-    private InputImage image;
+    private String path;
     private List<ImageLabel> labels;
 
-    public ImagenEtiquetada(String id, InputImage image, List<ImageLabel> labels) {
+    public ImagenEtiquetada(String id, String path, List<ImageLabel> labels) {
         this.id = id;
-        this.image = image;
+        this.path = path;
         this.labels = labels;
     }
 
@@ -29,12 +29,12 @@ public class ImagenEtiquetada {
         this.id = id;
     }
 
-    public InputImage getImage() {
-        return image;
+    public String getPath() {
+        return path;
     }
 
-    public void setImage(InputImage image) {
-        this.image = image;
+    public void setPath(String path) {
+        this.path = path;
     }
 
     public List<ImageLabel> getLabel() {
