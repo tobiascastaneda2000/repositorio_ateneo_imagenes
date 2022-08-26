@@ -7,22 +7,21 @@ import {
   query,
   where,
 } from "firebase/firestore";
+import { docData } from 'rxfire/firestore';
+
 
 import { ImgList } from "./ImgList";
 
 export const ImgListContainer = () => {
-  const [tags, setTags] = useState([]);
+  const [ImagenesEtiquetadas, setImagenesEtiquetadas] = useState([]);
   const { id } = useParams();
 
   useEffect(() => {
     const db = getFirestore();
-    const queryCollection = collection(db, "tags");
-    const queryCollectionFilter = id
-      ? query(queryCollection, where("id", "==", id))
-      : queryCollection;
-    getDocs(queryCollectionFilter)
+    const queryCollection = collection(db, "ImagenesEtiquetadas");
+    getDocs(queryCollection)
       .then((resp) =>
-        setTags(resp.docs.map((tag) => ({ id: tag.id, ...tag.data() })))
+        setImagenesEtiquetadas(resp.docs.map((tag) => ( tag.data() )))
       )
       .catch((err) => console.log(err))
       .finally();
@@ -31,7 +30,7 @@ export const ImgListContainer = () => {
   return (
     <section>
       <div>
-        <ImgList tags={tags} />
+        <ImgList ImagenesEtiquetadas={ImagenesEtiquetadas} />
       </div>
     </section>
   );
