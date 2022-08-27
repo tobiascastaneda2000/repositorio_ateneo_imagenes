@@ -1,18 +1,23 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
+import { v4 as uuidv4 } from 'uuid';
 import {
   collection,
+  Firestore,
   getDocs,
   getFirestore,
   query,
   where,
 } from "firebase/firestore";
 import { docData } from 'rxfire/firestore';
+import { LabelsItem } from "./LabelsItem";
+
+import  "./LabelsList.css";
 
 
-import { ImgList } from "./ImgList";
 
-export const ImgListContainer = () => {
+export const LabelsList = () => {
+  // 
   const [ImagenesEtiquetadas, setImagenesEtiquetadas] = useState([]);
   const { id } = useParams();
 
@@ -21,17 +26,18 @@ export const ImgListContainer = () => {
     const queryCollection = collection(db, "ImagenesEtiquetadas");
     getDocs(queryCollection)
       .then((resp) =>
-        setImagenesEtiquetadas(resp.docs.map((tag) => ( tag.data() )))
+        setImagenesEtiquetadas(resp.docs.map((tag) => ( tag.data() )))        
       )
       .catch((err) => console.log(err))
       .finally();
   }, [id]);
-
+  
   return (
-    <section>
-      <div>
-        <ImgList ImagenesEtiquetadas={ImagenesEtiquetadas} />
-      </div>
-    </section>
+    <div>
+      <ul className="labels-list">
+        {ImagenesEtiquetadas.map((image) =>(          
+        <LabelsItem key={uuidv4()} nameFile={image.nameFile} labels={image.labels}/>))}        
+      </ul>
+    </div>
   );
 };

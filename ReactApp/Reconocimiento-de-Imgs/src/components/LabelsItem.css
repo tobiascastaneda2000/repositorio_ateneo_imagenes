@@ -1,0 +1,13 @@
+.labels-item{
+    display: flex;
+}
+
+.etiqueta{
+    margin-left: 100px;  
+}
+
+.card{
+    border: 1px solid seagreen;
+    padding: 2rem;
+    margin-top: 10px;
+}
