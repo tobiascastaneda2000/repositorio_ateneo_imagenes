@@ -10,7 +10,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
 
-  /*return <ReactP5Wrapper sketch={sketch} />;*/
+ /*return <ReactP5Wrapper sketch={sketch} />;*/
  return <ImgListContainer />;
 }
 export default App;
