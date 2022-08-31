@@ -5,3 +5,8 @@
 .labels-list{
     list-style: none;    
 }
+
+.button{
+    background-color: blueviolet;
+    color:white;
+}

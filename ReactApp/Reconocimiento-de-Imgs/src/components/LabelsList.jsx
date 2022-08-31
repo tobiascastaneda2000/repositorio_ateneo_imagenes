@@ -31,12 +31,15 @@ export const LabelsList = () => {
       .catch((err) => console.log(err))
       .finally();
   }, [id]);
-  
+  console.log(ImagenesEtiquetadas)
   return (
     <div>
       <ul className="labels-list">
-        {ImagenesEtiquetadas.map((image) =>(          
-        <LabelsItem key={uuidv4()} nameFile={image.nameFile} labels={image.labels}/>))}        
+        {ImagenesEtiquetadas.map((image) =>(    
+              
+        <LabelsItem key={uuidv4()} nameFile={image.nameFile} labels={image.labels}/>))} 
+
+               
       </ul>
     </div>
   );

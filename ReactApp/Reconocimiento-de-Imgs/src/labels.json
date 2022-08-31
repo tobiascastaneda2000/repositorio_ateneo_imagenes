@@ -1,0 +1,3054 @@
+[
+    {
+        "id": 0,
+        "text": "Team",
+        "spanish": "Equipo",
+        "sentence": "La palabra equipo viene del francés equipe, un término usado en la Edad Media y que hacía referencia a la acción de proveer a una embarcación de todos los insumos necesarios antes de zarpar.",
+        "sentence1":"El equipo se desarmó"
+
+
+    },
+    {
+        "id": 1,
+        "text": "Bonfire",
+        "spanish":"Hoguera",
+        "sentence":"Este vocablo en su etimología viene del latín «focaria» forma femenino de «focarius» que quiere decir el fuego.",
+        "sentence1":"La hoguera se extendió"
+
+    },
+    {
+        "id": 2,
+        "text": "Comics",
+        "spanish":"Comic",
+        "sentence":"La palabra inglesa comic viene del griego komikos = relativo a la comedia, a través del latín comicus. La misma palabra que nos dio cómico en castellano y comique en francés.",
+        "sentence1":"Inventó el cómic más vistoso"
+
+    },
+    {
+        "id": 3,
+        "text": "Himalayan",
+        "spanish":"Himalaya",
+        "sentence":"La palabra Himalaya viene del sánscrito (un remoto lenguaje indo iraní, cuyos más viejos documentos escritos son una colección de himnos y poemas, llamada Vedas, con una antigüedad que nos remonta a entre el año 1500 y 1200 a.C.), con el significado de morada o donde vive la nieve",
+        "sentence1":"Soñó estar sobre el Himalaya"
+    },
+    {
+        "id": 4,
+        "text": "Iceberg",
+        "spanish":"Iceberg",
+        "sentence":"Préstamo del inglés iceberg, procedente a su vez de una lengua germánica nórdica o compuesto por ice :hielo, y berg, raíz germánica que significa montaña.",
+        "sentence1":"El barco llegó al último iceberg del Pacífico"
+    },
+    {
+        "id": 5,
+        "text": "Bento",
+        "spanish":"Bento",
+        "sentence":"Palabra de origen desconocido",
+        "sentence1":"Probaron el bento más delicioso de la noche"
+    },
+    {
+        "id": 7,
+        "text": "Sink",
+        "spanish":"Pileta",
+        "sentence":"La palabra pileta tiene el significado de pequeño receptáculo que lleva agua bendita y viene del sufijo diminutivo -eta sobre la palabra pila y esta del latín pila = mortero.",
+        "sentence1":"Llegó hasta lo más profundo de la pileta"
+        
+    },
+    {
+        "id": 8,
+        "text": "Toy",
+        "spanish":"juguete",
+        "sentence":"La palabra juguete tiene el significado de objeto que sirve para divertirse y viene del sufijo -ete (chiquito) sobre juego y este del latín iocus = broma, juego",
+        "sentence1":"Llegaron al reino de los juguetes"
+    },
+    {
+        "id": 9,
+        "text": "Statue",
+        "spanish":"estatua",
+        "sentence":"La palabra estatua proviene directamente del latín stătŭa (estatua), del verbo statuere (establecer, fijar, poner de pie, colocar), de status, que es el participio pasado de stare (estar o permanecer de pie)",
+        "sentence1":"Una noche rayaron las estatuas"
+    },
+    {
+        "id": 10,
+        "text": "Cheeseburger",
+        "spanish":"Hamburguesa de queso",
+        "sentence":"La palabra hamburguesa proviene del inglés hamburger, en relación a la ciudad alemana de Hamburgo",
+        "sentence1":"Prepararon hamburguesas de queso"
+    },
+    {
+        "id": 11,
+        "text": "Tractor",
+        "spanish":"Tractor",
+        "sentence":"Tracto del latín tractor, tractoris compuesto por el verbo trahere, que significa tirar, arrastrar.",
+        "sentence1":"El tractor se estrelló frente al poste"
+    },
+    {
+        "id": 12,
+        "text": "Sled",
+        "spanish":"trineo",
+        "sentence":"La palabra trineo procede del francés «traîneau» (siglo XII) formada a partir del verbo «traîner» que significa «arrastrar»",
+        "sentence1":"El trineo daba vida a los más gélidos inviernos"
+    },
+    {
+        "id": 13,
+        "text": "Aquarium",
+        "spanish":"acuario",
+        "sentence":"La palabra acuario proviene del latín aqua, que significa 'agua', más el sufijo -arium, que indica un lugar para guardar cosas, en este caso el agua.",
+        "sentence1":"Entró por primera vez al acuario más grande de la ciudad"
+    },
+    {
+        "id": 14,
+        "text": "Circus",
+        "spanish":"circo",
+        "sentence":"Préstamo (s. XV) del latín circus ‘círculo’, ‘circo’, que se ha especializado para designar el recinto circular donde se celebran juegos y otros espectáculos. Del mismo origen que cerco (V.)",
+        "sentence1":"Ese día debutó como equilibrista en el circo de las luces del día"
+        
+    
+    },
+    {
+        "id": 16,
+        "text": "Sitting",
+        "spanish":"sesión",
+        "sentence":"Préstamo (s. XVII) del latín sessio, sessionis ‘acción de sentarse’ y de ahí designa las reuniones celebradas para deliberar algún asunto por desarrollarse generalmente en esta posició",
+        "sentence1":"Frente a la computadora, en la primera gran pandemia, inicia la primera terapia virtual"
+    },
+    {
+        "id": 17,
+        "text": "Beard",
+        "spanish":"Barba",
+        "sentence":"La palabra barba viene del latín barba (pelo en la cara). De ahí también nos llega: barbudo, barbón, barbero, imberbe (joven, sin barba) y barbilla.",
+        "sentence1":"A los 33 años se convirtió en el ser con la barba más larga antes vista"
+    },
+    {
+        "id": 18,
+        "text": "Bridge",
+        "spanish":"puente",
+        "sentence":"Esta palabra etimológicamente proviene del latín «pons» o «pontis» con la misma acepción",
+        "sentence1":"Elle cruzó caminando el puente más decrépito que había visto"
+    },
+    {
+        "id": 19,
+        "text": "Tights",
+        "spanish":"medias",
+        "sentence":"Sustantivación del adjetivo medio, -dia . En las acepciones ‘prenda de vestir’ y en la locución hacer media procede de la elisión de media (calza) .",
+        "sentence1":"Se vistión con un par de medias de distinto color"
+    },
+    {
+        "id": 20,
+        "text": "Bird",
+        "spanish":"Pájaro",
+        "sentence":"Derivado del español antiguo pássaro y este del latín vulgar passar ‘pájaro’, en latín passer, passeris ‘gorrión, pardillo’",
+        "sentence1":"Los pájaros le despertaron de madrugada"
+    },
+    {
+        "id": 21,
+        "text": "Rafting",
+        "spanish":"Canotaje",
+        "sentence":"Del taíno kanoa y el sufijo -aje.",
+        "sentence1":"Todo el varon hicieron canoa"
+    },
+    {
+        "id": 22,
+        "text": "Park",
+        "spanish":"Parque",
+        "sentence":"La palabra parque viene del francés parc y esta del latín parricus, deriva del gótico *parra (cercado, enrejado, glorieta)",
+        "sentence1":"Pasaron toda la tarde conversando en el parque"
+    },
+    {
+        "id": 24,
+        "text": "Factory",
+        "spanish":"Fábrica",
+        "sentence":"La palabra fábrica viene del latín fabrica que significa arte u oficio",
+        "sentence1":"Ese día comenzaron a salir las fábricas de la ciudad"
+
+    },
+    {
+        "id": 25,
+        "text": "Graduation",
+        "spanish":"Graduación",
+        "sentence":"La palabra graduación está formada con raíces latinas y significa acto de pasar a otro nivel",
+        "sentence1":"Moría de nervios esperando su graduación"
+    },
+    {
+        "id": 26,
+        "text": "Porcelain",
+        "spanish":"Porcelana",
+        "sentence":"Préstamo (s. XVI) del italiano porcellana ‘molusco de concha blanca y brillante’",
+        "sentence1":"Encontró las muñecas de porcelana de la abuela"
+    },
+    {
+        "id": 27,
+        "text": "Twig",
+        "spanish":"Rama",
+        "sentence":"Proviene del latín ramus que significa rama, brote, vástago, gajo",
+        "sentence1":"En marzo cayeron ramitas sobre su pelo"
+    },
+    {
+        "id": 28,
+        "text": "Petal",
+        "spanish":"Pétalo",
+        "sentence":"La palabra pétalo viene del griego πέταλον (petalon = cosa ancha)",
+        "sentence1":"Se cayoron los pétalos de la rosa"
+    },
+    {
+        "id": 29,
+        "text": "Cushion",
+        "spanish":"almohadón",
+        "sentence":"Su nombre proviene del árabe andalusí mujadda, con adición del artículo determinado al (al-mujadda), que viene del árabe estándar mijadda: almohadón o cojín. La raíz de esta palabra es jadd (lado o mejilla) ",
+        "sentence1":"Apoyaron sus cabezas en la misma almohada"
+    },
+    {
+        "id": 30,
+        "text": "Sunglasses",
+        "spanish":"Lentes de sol",
+        "sentence":"Préstamo (s. XVIII) del latín lens, lentis ‘lenteja’, por comparación de forma",
+        "sentence1":"Con las lentes pudo ver la escena con claridad"
+    },
+    {
+        "id": 31,
+        "text": "Infrastructure",
+        "spanish":"Infraestructura",
+        "sentence":"La palabra infraestructura está formada con el prefijo latino infra (debajo) y la palabra estructura (el esqueleto o las partes que sostiene al edificio)",
+        "sentence1":"Encontró los secretos sobre las infraestructuras de los castillos milenarios"
+    },
+    {
+        "id": 32,
+        "text": "Ferris wheel",
+        "spanish":"Rueda de la fortuna",
+        "sentence":"La palabra fortuna viene del latín fortuna, esta de fors, solamente se usa en nominativo (fors) y ablativo (forte) ambos en singular; significa, casualidad, suerte",
+        "sentence1":"La primera carta que salió fue la rueda de la fortuna"
+
+    },
+    {
+        "id": 33,
+        "text": "Pomacentridae",
+        "spanish":"Pez payaso",
+        "sentence":"La palabra pez proviene de la palabra latina piscis",
+        "sentence1":"El pez se alejó del anzuelo tanto como pudo"
+    },
+    {
+        "id": 34,
+        "text": "Wetsuit",
+        "spanish":"Traje para el agua",
+        "sentence":"Desconocida",
+        "sentence1":"Después de buzear se sacó su traje de agua"
+
+    },
+    {
+        "id": 35,
+        "text": "Shetland sheepdog",
+        "spanish":"Pastos de Sheetland",
+        "sentence":"desconocido",
+        "sentence1":"El pastor ladró toda la noche"
+         
+    },
+    {
+        "id": 36,
+        "text": "Brig",
+        "spanish":"Bergantin",
+        "sentence":"La palabra bergantín que designa a un tipo de velero ágil con dos mástiles y complicado velamen, procede del italiano brigantino, a través del catalán bergantí.",
+        "sentence1":"El bergantín nadó por aguas profundas"
+
+    },
+    {
+        "id": 37,
+        "text": "Watercolor paint",
+        "spanish":"Pintura de acuarela",
+        "sentence":"La palabra acuarela viene del italiano acquerèllo, (pequeña agua).",
+        "sentence1":"Elle pintó con acuarelas toda la noche"
+    },
+    {
+        "id": 38,
+        "text": "Competition",
+        "spanish":"Competencia",
+        "sentence":"La palabra competencia viene del latín competentia (cualidad del que luchar para conseguir un premio)",
+        "sentence1":"La competencia no logró controlar los mercados"
+    },
+    {
+        "id": 39,
+        "text": "Cliff",
+        "spanish":"Acantilado",
+        "sentence":"La palabra acantilado tiene el significado de cortado verticalmente, que forma escalones y viene de a- + cantil + -ado. Cantil viene del latín cantus = canto. Ver: canto, asombrar y también atestado.",
+        "sentence1":"Un tren frenó al borde del acantilados"
+        
+    },
+    {
+        "id": 40,
+        "text": "Badminton",
+        "spanish":"Badminton",
+        "sentence":"Del inglés Badminton, a su vez del inglés antiguo Badimyncgtun (estado de (hombre llamado) Baduhelm).Sustantivo propio",
+        "sentence1":"Fueron camponas del torneo de badminton"
+         
+    },
+    {
+        "id": 41,
+        "text": "Safari",
+        "spanish":"Safari",
+        "sentence":"La palabra “safari” viene del swahili, tomada a su vez de un término de la lengua árabe que significa simplemente viaje",
+        "sentence1":"Anduvieron de Safari en la sabana africana"
+    },
+    {
+        "id": 42,
+        "text": "Bicycle",
+        "spanish":"Bicicleta",
+        "sentence":"La palabra bicicleta proviene de tres idiomas diferentes: el latín, el griego y francés. Se forma de la siguiente manera: bi-, prefijo latino que significa dos, kyklos, palabra griega que significa rueda.-ette, diminutivo francés.",
+        "sentence1":"Cruzó la cordillera en bicileta"
+
+    },
+    {
+        "id": 43,
+        "text": "Stadium",
+        "spanish":"Estadio",
+        "sentence":"Préstamo (s. XVI) del latín stadium y éste del griego stádion ‘cierta medida itineraria’, ‘estadio (que debía tener esta medida como longitud fija)’, neutro de stádios ‘estable’, ‘fijo’, derivado de histánai ‘colocar’. De la raíz indoeuropea de estar (V.).",
+        "sentence1":"Resonaron los gritos de celebración desde el estadio"
+    },
+    {
+        "id": 45,
+        "text": "Boat",
+        "spanish":"barco",
+        "sentence":"En este caso podemos decir que se trata de una palabra que deriva del latín, exactamente de “barca” que se empleaba como sinónimo de “bote”. Palabra esa que, a su vez, procedía del griego “baris”, que se utilizaba con el significado de “canoa”",
+        "sentence1":"El barco llegó al puerto con 70 tripulantes de la India"
+    },
+    {
+        "id": 46,
+        "text": "Smile",
+        "spanish":"sonrisa",
+        "sentence":"La palabra sonrisa viene de son- y risa. Son- es un prefijo que viene del latín sub- (abajo).",
+        "sentence1":"El mago sonrío al público"
+    },
+    {
+        "id": 47,
+        "text": "Surfboard",
+        "spanish":"Tabla de surf",
+        "sentence":"desconocido",
+        "sentence1":"En la isla caribeña tomó su tabla de surf"
+    },
+    {
+        "id": 48,
+        "text": "Fast food",
+        "spanish":"Comida rápida",
+        "sentence":"El adjetivo rápido viene del latín rapĭdus. En latín rapĭdus significa el que actúa arrebatando, como el que roba, y de ahí su valor de veloz y presto ",
+        "sentence1":"Disfrutó ese plato de comida rápida con todo su ser"
+    },
+    {
+        "id": 49,
+        "text": "Sunset",
+        "spanish":"Puesta de sol",
+        "sentence":"La palabra sol viene del latín sol que era como los romanos llamaban al astro brillante que les ofrecía la luz del día.",
+        "sentence1":"Desde las montañas vieron la puesta de sol"
+    },
+    {
+        "id": 50,
+        "text": "Hot dog",
+        "spanish":"Pancho, completo",
+        "sentence":"desconocido",
+        "sentence1":"Cuando salieron de la fiesta comieron deliciosos panchos"
+    },
+    {
+        "id": 51,
+        "text": "Shorts",
+        "spanish":"Shortos",
+        "sentence":"La palabra inglesa short se asocia con la raíz indoeuropea *(s)ker (cortar, corte), presente en las palabras: esquilar, esgrima, carne, escorzo, escrutinio,",
+        "sentence1":"La chica la esquina  el día de la primavera se vistió con shorts de jeans"
+    },
+    {
+        "id": 52,
+        "text": "Bus",
+        "spanish":"Bus",
+        "sentence":"desconocido",
+        "sentence1":"Tomó el bus para viajar a las montañas"
+    },
+    {
+        "id": 53,
+        "text": "Bullfighting",
+        "spanish":"Toreo",
+        "sentence":"desconocido",
+        "sentence1":"Tiritó antes de comenzar el toreo"
+    },
+    {
+        "id": 54,
+        "text": "Sky",
+        "spanish":"cielo",
+        "sentence":"desconocido",
+        "sentence1":"Vio la ciudad desde el cielo"
+    },
+    {
+        "id": 55,
+        "text": "Gerbil",
+        "spanish":"jerbo",
+        "sentence":"desconocido",
+        "sentence1":"Junto al río vieron salir una familia de jerbos"
+    },
+    {
+        "id": 56,
+        "text": "Rock",
+        "spanish":"Rock",
+        "sentence":"desconocido",
+        "sentence1":"Mocheron toda la noche en el mejor concierto de rock de sus vidas"
+    },
+    {
+        "id": 57,
+        "text": "Interaction",
+        "spanish":"Interacción",
+        "sentence":"desconocido",
+        "sentence1":"Pulsó el botón para iniciar la interacción con el androide"
+    },
+    {
+        "id": 58,
+        "text": "Dress",
+        "spanish":"vestido",
+        "sentence":"desconocido",
+        "sentence1":"Tejió un vestido de plástico"
+    },
+    {
+        "id": 59,
+        "text": "Toe",
+        "spanish":"después",
+        "sentence":"desconocido",
+        "sentence1":"Respiró profundo después de debutas en el trapecio"
+
+    },
+    {
+        "id": 61,
+        "text": "Bear",
+        "spanish":"Llevar",
+        "sentence":"desconocido",
+        "sentence1":"El viejo llevó su libro al parque"
+    },
+    {
+        "id": 62,
+        "text": "Eating",
+        "spanish":"Comer",
+        "sentence":"Desconocido",
+        "sentence1":"Comieron exóticos marsicos"
+    
+    },
+    {
+        "id": 63,
+        "text": "Tower",
+        "spanish":"Torre",
+        "sentence":"desconocido",
+        "sentence1":"Subieron a la terraza de la torre"
+    },
+    {
+        "id": 64,
+        "text": "Brick",
+        "spanish":"Ladrillo",
+        "sentence":"desconocido",
+        "sentence1":"Puso el primer ladrillo de su futura casa"
+    },
+    {
+        "id": 65,
+        "text": "Junk",
+        "spanish":"basura",
+        "sentence":"desconocido",
+        "sentence1":"Tiró las fotos de su infancia a la basura"
+    },
+    {
+        "id": 66,
+        "text": "Person",
+        "spanish":"Persona",
+        "sentence":"desconocido",
+        "sentence1":"En el viejo salón había una persona de espaldas a la ventana"
+    },
+    {
+        "id": 67,
+        "text": "Windsurfing",
+        "spanish":"Windsurfing",
+        "sentence":"desconocido",
+        "sentence1":"Anduvo en windsurfing toda la noche"
+    },
+    {
+        "id": 68,
+        "text": "Swimwear",
+        "spanish":"Traje de baño",
+        "sentence":"desconocido",
+        "sentence1":"Se puso el traje de baño para comenzar la mañana de nado"
+    
+        
+    },
+    {
+        "id": 69,
+        "text": "Roller",
+        "spanish":"rodillo",
+        "sentence":"desconocido",
+        "sentence1":"Pintó el muro de amarillo con su rodillo"
+    },
+    {
+        "id": 70,
+        "text": "Camping",
+        "spanish":"Camping",
+        "sentence":"Desconocido",
+        "sentence1":"Hiceron camping a la orilla de las montañas"
+    },
+    {
+        "id": 71,
+        "text": "Playground",
+        "spanish":"patio de juegos",
+        "sentence":"desconocido",
+        "sentence1":"Estuvieron toda la tarde en el patio de juegos más entretenido que conocieron"
+    },
+    {
+        "id": 72,
+        "text": "Bathroom",
+        "spanish":"Baño",
+        "sentence":"desconocido",
+        "sentence1":"A la madrugada fue al baño que ubicado a un costado del patio"
+    },
+    {
+        "id": 73,
+        "text": "Laugh",
+        "spanish":"risa",
+        "sentence":"desconocido",
+        "sentence1":"Estallaron de la risa"
+    },
+    {
+        "id": 74,
+        "text": "Balloon",
+        "spanish":"Globo",
+        "sentence":"desconocido",
+        "sentence1":"Llenaron el cielo de globos de elio"
+    },
+    {
+        "id": 75,
+        "text": "Concert",
+        "spanish":"Concierto",
+        "sentence":"desconocido",
+        "sentence1":"Entró al concierto de piano"
+    },
+    {
+        "id": 76,
+        "text": "Prom",
+        "spanish":"salón de baile",
+        "sentence":"desconocido",
+        "sentence1":"El salón de baile estuvo abierto toda la noche"
+    },
+    {
+        "id": 77,
+        "text": "Construction",
+        "spanish":"Construcción",
+        "sentence":"desconocido",
+        "sentence1":"Después de 100 años terminaron de construir la catedral"
+    },
+    {
+        "id": 78,
+        "text": "Product",
+        "spanish":"Producto",
+        "sentence":"Desconocido",
+        "sentence1":"Lanzó el producto estrella"
+    },
+    {
+        "id": 79,
+        "text": "Reef",
+        "spanish":"arrecife",
+        "sentence":"Desconocido",
+        "sentence1":"Buceaba para ver los arrecifes de cerca"
+    },
+    {
+        "id": 80,
+        "text": "Picnic",
+        "spanish":"Picnic",
+        "sentence":"desconocido",
+        "sentence1":"Fueron de picnic la tarde de otoño"
+    },
+    {
+        "id": 81,
+        "text": "Wreath",
+        "spanish":"Guirnalda",
+        "sentence":"desconocido",
+        "sentence1":"Pusieron guirnaldas para festejar los carnavales"
+    },
+    {
+        "id": 82,
+        "text": "Wheelbarrow",
+        "spanish":"Carretilla",
+        "sentence":"desconocido",
+        "sentence1":"Llenó de cachivaces la carretilla"
+    },
+    {
+        "id": 83,
+        "text": "Boxer",
+        "spanish":"Boxer",
+        "sentence":"desconocido",
+        "sentence1":"Estuvo todo el día en boxer"
+    },
+    {
+        "id": 84,
+        "text": "Necklace",
+        "spanish":"collar",
+        "sentence":"desconocido",
+        "sentence1":"Le regaló a su nieta el collar que le dió su abuela"
+    },
+    {
+        "id": 85,
+        "text": "Bracelet",
+        "spanish":"Bazalete",
+        "sentence":"desconocido",
+        "sentence1":"Llenó su brazo de brazaletes"
+    },
+    {
+        "id": 86,
+        "text": "Casino",
+        "spanish":"Casino",
+        "sentence":"desconocido",
+        "sentence1":"Se suicidó en el casino"
+    },
+    {
+        "id": 87,
+        "text": "Windshield",
+        "spanish":"parabrisas",
+        "sentence":"desconocido",
+        "sentence1":"La neblina empañó el parabrisas"
+    },
+    {
+        "id": 88,
+        "text": "Stairs",
+        "spanish":"Escalera",
+        "sentence":"desconocido",
+        "sentence1":"Subió la escalera caracol de la torre"
+    },
+    {
+        "id": 89,
+        "text": "Computer",
+        "spanish":"Computador",
+        "sentence":"Desconocido",
+        "sentence1":"Un virus infectó todas las computadoras del departamento de seguridad"
+    },
+    {
+        "id": 90,
+        "text": "Cookware and bakeware",
+        "spanish":"Utensilios de cocina",
+        "sentence":"Desconocido",
+        "sentence1":"Dejó los utensilios de cocina sobre el mueble"
+    },
+    {
+        "id": 91,
+        "text": "Monochrome",
+        "spanish":"Monocromo",
+        "sentence":"Desconocido",
+        "sentence1":"Llenó la habitación de cuadros monocromos"
+    },
+    {
+        "id": 92,
+        "text": "Chair",
+        "spanish":"silla",
+        "sentence":"Desconocido",
+        "sentence1":"Se sentaron sobre las sillas de marmol"
+    },
+    {
+        "id": 93,
+        "text": "Poster",
+        "spanish":"Poster",
+        "sentence":"Desconocido",
+        "sentence1":"Temrinó el diseño de los posters para la campaña publicitaria"
+    },
+    {
+        "id": 94,
+        "text": "Bar",
+        "spanish":"Bar",
+        "sentence":"Desconocido",
+        "sentence1":"Le encontró perdido en el bar"
+    },
+    {
+        "id": 95,
+        "text": "Shipwreck",
+        "spanish":"Naufragio",
+        "sentence":"Desconocido",
+        "sentence1":"El crucero naufragó en la tormenta"
+        
+    },
+    {
+        "id": 96,
+        "text": "Pier",
+        "spanish":"Muelle",
+        "sentence":"Desconocido",
+        "sentence1":"El pescador llegó al muelle al caer la noche"
+    },
+    {
+        "id": 97,
+        "text": "Community",
+        "spanish":"Comunidad",
+        "sentence":"Desconocido",
+        "sentence1":"Después de caminar 3 horas llegó a la comunidad"
+    },
+    {
+        "id": 98,
+        "text": "Caving",
+        "spanish":"espeleología",
+        "sentence":"Desconocido",
+        "sentence1":"Ese varon comenzó a practicar la espeleología"
+    },
+    {
+        "id": 99,
+        "text": "Cave",
+        "spanish":"Cueva",
+        "sentence":"Desconocido",
+        "sentence1":"Encontró dibujos extraños al fondo de la cueva"
+    },
+    {
+        "id": 100,
+        "text": "Tie",
+        "spanish":"Corbata",
+        "sentence":"desconocido",
+        "sentence1":"Después de la reunión se quitó la corbata"
+    },
+    {
+        "id": 101,
+        "text": "Cabinetry",
+        "spanish":"Gabinete",
+        "sentence":"desconocido",
+        "sentence1":"Nombró a una gabinete de confianza una semana después de la victoria"
+    },
+    {
+        "id": 102,
+        "text": "Underwater",
+        "spanish":"Submarino",
+        "sentence":"Desconocido",
+        "sentence1":"Llegó a un refugio submarino"
+    },
+    {
+        "id": 103,
+        "text": "Clown",
+        "spanish":"Payaso",
+        "sentence":"Desconocido",
+        "sentence1":"El payaso hizo su aparición en el circo"
+    },
+    {
+        "id": 104,
+        "text": "Nightclub",
+        "spanish":"Club Nocturno",
+        "sentence":"Desconocido",
+        "sentence1":"Encontró a su mejor amigo en el club nocturno"
+    },
+    {
+        "id": 105,
+        "text": "Cycling",
+        "spanish":"Ciclista",
+        "sentence":"Desconocido",
+        "sentence1":"Los ciclistas salieron a rachear por la autopista"
+    },
+    {
+        "id": 106,
+        "text": "Comet",
+        "spanish":"Comentar",
+        "sentence":"Desconocido",
+        "sentence1":"Le comentó  su descontento por los resultados del test"
+    },
+    {
+        "id": 107,
+        "text": "Mortarboard",
+        "spanish":"Birrete",
+        "sentence":"desconocido",
+        "sentence1":"Al terminar la ceremonia, se sacó el birrete de la cabeza"
+    },
+    {
+        "id": 108,
+        "text": "Track",
+        "spanish":"Pista",
+        "sentence":"Desconocido",
+        "sentence1":"Se lanzó a la pista de patinaje llena de energía"
+    },
+    {
+        "id": 109,
+        "text": "Christmas",
+        "spanish":"Navidad",
+        "sentence":"Desconocido",
+        "sentence1":"Preparó chocolate caliente para navidad"
+    },
+    {
+        "id": 110,
+        "text": "Church",
+        "spanish":"Iglesia",
+        "sentence":"desconocido",
+        "sentence1":"La iglesia quedó en completo silencio"
+    },
+    {
+        "id": 111,
+        "text": "Clock",
+        "spanish":"reloj",
+        "sentence":"Desconocido",
+        "sentence1":"El reloj marcó las 12 de la media noche"
+    },
+    {
+        "id": 112,
+        "text": "Dude",
+        "spanish":"Tipo",
+        "sentence":"Desconocido",
+        "sentence1":"Encontró un tipo sombrío en el estacionamiento del edificio"
+    },
+    {
+        "id": 113,
+        "text": "Cattle",
+        "spanish":"ganado",
+        "sentence":"Desconocido",
+        "sentence1":"De madrugada sacó a pastar al ganado"
+    },
+    {
+        "id": 114,
+        "text": "Jungle",
+        "spanish":"Jungla",
+        "sentence":"desconocido",
+        "sentence1":"Unos exloradores se sumergieron en la jungla"
+    },
+    {
+        "id": 115,
+        "text": "Desk",
+        "spanish":"Escritorio",
+        "sentence":"desconocido",
+        "sentence1":"Se sentó frente al escritorio a comenzar su novela"
+    },
+    {
+        "id": 116,
+        "text": "Curling",
+        "spanish":"rizado",
+        "sentence":"Desconocido",
+        "sentence1":"Cepilló su pelo rizado"
+    },
+    {
+        "id": 117,
+        "text": "Cuisine",
+         "spanish":"Cocina",
+         "sentence":"Desconocido",
+         "sentence1":"Preparó el desayuno en la cocina"
+    },
+    {
+        "id": 118,
+        "text": "Cat",
+        "spanish":"Gato",
+        "sentence":"Desconocido",
+        "sentence1":" Apareció una multitud de gatos frente a la ventana"
+    },
+    {
+        "id": 119,
+        "text": "Juice",
+        "spanish":"Jugo",
+        "sentence":"Desconocido",
+        "sentence1":"Tomó un jugo de piña en la playa "
+    },
+    {
+        "id": 120,
+        "text": "Couscous",
+        "spanish":"Cus Cus",
+        "sentence":"Desconocido",
+        "sentence1":"Preparó cus cus para la primera cita"
+    },
+    {
+        "id": 121,
+        "text": "Screenshot",
+        "spanish":"Captura de pantalla",
+        "sentence":"Desconocido",
+        "sentence1":"Hizo una captura de pantalla del chat"
+
+    },
+    {
+        "id": 122,
+        "text": "Crew",
+        "spanish":"Cuervo",
+        "sentence":"Desconocido",
+        "sentence1":"Tras el árbol apareció el cuervo"
+    },
+    {
+        "id": 123,
+        "text": "Skyline",
+        "spanish":"Horizonte",
+        "sentence":"Desconocido",
+        "sentence1":"Llegaron a la pampa desde donde pudieron ver el horizonte "
+    },
+    {
+        "id": 125,
+        "text": "Stuffed toy",
+        "spanish":"Peluche",
+        "sentence":"Desconocido",
+        "sentence1":"Dejó su peluche junto a la almohada"
+    },
+    {
+        "id": 126,
+        "text": "Cookie",
+        "spanish":"Galleta",
+        "sentence":"desconocido",
+        "sentence1":"Comieron galletas mágicas"
+    },
+    {
+        "id": 127,
+        "text": "Tile",
+        "spanish":"Teja",
+        "sentence":"desconocido",
+        "sentence1":"Se cayó una teja de la casa"
+    },
+    {
+        "id": 128,
+        "text": "Hanukkah",
+        "spanish":"Hanukkah",
+        "sentence":"desconocido",
+        "sentence1":"Después de dos años, se reuniron todos en Hanukkah"
+
+    },
+    {
+        "id": 129,
+        "text": "Crochet",
+        "spanish":"Crochet",
+        "sentence":"1",
+        "sentence1":"Forró el sofá con tejidos de crochet"
+    },
+    {
+        "id": 130,
+        "text": "Skateboarder",
+        "spanish":"patinadora",
+        "sentence":"desconocido",
+        "sentence1":"La patinadora sintió que volaba por los aires"
+    },
+    {
+        "id": 131,
+        "text": "Clipper",
+        "spanish":"Clipper",
+        "sentence":"desconocido",
+        "sentence1":"Prendió el cigarro con su clipper"
+    },
+    {
+        "id": 132,
+        "text": "Nail",
+        "spanish":"Uña",
+        "sentence":"Desconocido",
+        "sentence1":"Se compró uñas platinadas"
+    },
+    {
+        "id": 133,
+        "text": "Cola",
+        "spanish":"Coca cola",
+        "sentence":"Desconocido",
+        "sentence1":"Tomaron deliciosas coca cola"
+        
+    },
+    {
+        "id": 134,
+        "text": "Cutlery",
+        "spanish":"Cuchillería",
+        "sentence":"Desconocido",
+        "sentence1":"Usó la cuchillería de colección que tenía guardada"
+    },
+    {
+        "id": 135,
+        "text": "Menu",
+        "spanish":"Menú",
+        "sentence":"Desconocido",
+        "sentence1":"Se quedaron toda la noche armando el menú del barcito"
+    },
+    {
+        "id": 137,
+        "text": "Sari",
+        "spanish":"Sari",
+        "sentence":"Desconocido",
+        "sentence1":"Se vistió con su sari de gala para las fiestas"
+    },
+    {
+        "id": 138,
+        "text": "Plush",
+        "spanish":"salpicar",
+        "sentence":"Desconocido",
+        "sentence1":"Se tiró a la piscina y salpicó oleadas de agua"
+    },
+    {
+        "id": 139,
+        "text": "Pocket",
+        "spanish":"bolsillo",
+        "sentence":"desconocido",
+        "sentence1":"Sacó el sombrero mágico del bolsillo"
+    },
+    {
+        "id": 140,
+        "text": "Neon",
+        "spanish":"Neón",
+        "sentence":"Desconocido",
+        "sentence1":"Llegaron a un bar de luces de neón"
+    },
+    {
+        "id": 141,
+        "text": "Icicle",
+        "spanish":"Carambano",
+        "sentence":"Desconocido",
+        "sentence1":"La helada dejó el techo lleno de carambanos"
+    },
+    {
+        "id": 142,
+        "text": "Pasteles",
+        "spanish":"pasteles dominicanos",
+        "sentence":"desconocido",
+        "sentence1":"Se quedaron toda la tarde haciendo pasteles"
+    },
+    {
+        "id": 143,
+        "text": "Chain",
+        "spanish":"cadena",
+        "sentence":"Desconocido",
+        "sentence1":"Rompieron las cadenas"
+    },
+    {
+        "id": 144,
+        "text": "Dance",
+        "spanish":"Baile",
+        "sentence":"Desconocido",
+        "sentence1":"Le enseñó a bailar al ritmo de los tambores"
+    },
+    {
+        "id": 145,
+        "text": "Dune",
+        "spanish":"duna",
+        "sentence":"Desconocido",
+        "sentence1":"Subieron las dunas en medio del desierto"
+    },
+    {
+        "id": 146,
+        "text": "Santa claus",
+        "spanish":"Santa Claus",
+        "sentence":"desconocido",
+        "sentence1":"Decidió quedarse en el silló para esperar a Santa Clauss"
+    },
+    {
+        "id": 147,
+        "text": "Thanksgiving",
+        "spanish":"Acción de gracias",
+        "sentence":"desconocido",
+        "sentence1":"Se juntaron a la cena de acción de gracias"
+    },
+    {
+        "id": 148,
+        "text": "Tuxedo",
+        "spanish":"Smoking",
+        "sentence":"desconocido",
+        "sentence1":"El mago se puso su smoking de gala"
+    },
+    {
+        "id": 149,
+        "text": "Mouth",
+        "spanish":"Boca",
+        "sentence":"desconocido",
+        "sentence1":"Se pintó la boca de rosa"
+    },
+    {
+        "id": 150,
+        "text": "Desert",
+        "spanish":"Desierto",
+        "sentence":"Desconocido",
+        "sentence1":"Llegaron al desierto más árido del planeta"
+    },
+    {
+        "id": 151,
+        "text": "Dinosaur",
+        "spanish":"Dinosaurio",
+        "sentence":"desconocido",
+        "sentence1":"Encontraron los restos de un dinosaurio"
+    },
+    {
+        "id": 152,
+        "text": "Mufti",
+        "spanish":"Muftí",
+        "sentence":"Desconocido",
+        "sentence1":"El muftí tomó el legajo"
+    },
+    {
+        "id": 153,
+        "text": "Fire",
+        "spanish":"Fuego",
+        "sentence":"Desconocido",
+        "sentence1":"El fuego se expandió por los bosques"
+    },
+    {
+        "id": 154,
+        "text": "Bedroom",
+        "spanish":"Habitación",
+        "sentence":"Desconocido",
+        "sentence1":"Entró jadeando a la habitación"
+    },
+    {
+        "id": 155,
+        "text": "Goggles",
+        "spanish":"Lentes de agua",
+        "sentence":"desconocido",
+        "sentence1":"El buzo se puso los lentes para mirar en las profundidades"
+    },
+    {
+        "id": 156,
+        "text": "Dragon",
+        "spanish":"dragón",
+        "sentence":"desconocido",
+        "sentence1":"De la montaña apareció un dragón"
+    },
+    {
+        "id": 157,
+        "text": "Couch",
+        "spanish":"Sofá",
+        "sentence":"desconocido",
+        "sentence1":"Se arrojaron al sofá"
+    },
+    {
+        "id": 158,
+        "text": "Sledding",
+        "spanish":"trineo",
+        "sentence":"desconocido",
+        "sentence1":"Se subieron al trineo"
+    },
+    {
+        "id": 159,
+        "text": "Cap",
+        "spanish":"Gorra",
+        "sentence":"desconocido",
+        "sentence1":"Se colocó una gorra azul hecha de hilos"
+    },
+    {
+        "id": 160,
+        "text": "Whiteboard",
+        "spanish":"Pizarra",
+        "sentence":"desconocido",
+        "sentence1":"Cerró los ojos antes de llegar a la pizarra"
+    },
+    {
+        "id": 161,
+        "text": "Hat",
+        "spanish":"sombrero",
+        "sentence":"desconocido",
+        "sentence1":"Sacó un cofre del sombrero"
+    },
+    {
+        "id": 162,
+        "text": "Gelato",
+        "spanish":"helado",
+        "sentence":"desconocido",
+        "sentence1":"Se sirvieron un helado de chiromoya"
+    },
+    {
+        "id": 163,
+        "text": "Cavalier",
+        "spanish":"caballero",
+        "sentence":"desconocido",
+        "sentence1":"Escogió las piezas para lucir como cabellero"
+    },
+    {
+        "id": 164,
+        "text": "Beanie",
+        "spanish":"gorro",
+        "sentence":"desconocido",
+        "sentence1":"Dejó su gorro en la perchera"
+    },
+    {
+        "id": 165,
+        "text": "Jersey",
+        "spanish":"Jersey",
+        "sentence":"desconocido",
+        "sentence1":"Se puso su jersey naranja"
+    },
+    {
+        "id": 166,
+        "text": "Scarf",
+        "spanish":"bufanda",
+        "sentence":"Desconocido",
+        "sentence1":"Se puso su bufanda violeta"
+
+    },
+    {
+        "id": 167,
+        "text": "Vacation",
+        "spanish":"Vacaciones",
+        "sentence":"desconocido",
+        "sentence1":"Se fue de vacaciones a India"
+    },
+    {
+        "id": 168,
+        "text": "Pitch",
+        "spanish":"Tono",
+        "sentence":"desconocido",
+        "sentence1":"Subió el tono de su voz"
+    },
+    {
+        "id": 169,
+        "text": "Blackboard",
+        "spanish":"pizarra",
+        "sentence":"desconocida",
+        "sentence1":"Rayaron con tizas la pizarra"
+    
+    },
+    {
+        "id": 170,
+        "text": "Deejay",
+        "spanish":"Deejay",
+        "sentence":"desconocida",
+        "sentence1":"La dejay supo que venía el momento cúlmine"
+    },
+    {
+        "id": 171,
+        "text": "Monument",
+        "spanish":"Monumento",
+        "sentence":"desconocido",
+        "sentence1":"Encontraron monumentos milenarios en el desierto"
+    },
+    {
+        "id": 172,
+        "text": "Bumper",
+        "spanish":"Parachoque",
+        "sentence":"Desconocido",
+        "sentence1":"Vio una carretilla a través de la ventana del parachoque"
+    },
+    {
+        "id": 173,
+        "text": "Longboard",
+        "spanish":"Longboard",
+        "sentence":"desconocido",
+        "sentence1":"Se subió a su longboard en el parque frente a una multitud"
+    },
+    {
+        "id": 174,
+        "text": "Waterfowl",
+        "spanish":"aves acuáticas",
+        "sentence":"desconocido",
+        "sentence1":"Vió un cisne en el lago"
+    },
+    {
+        "id": 175,
+        "text": "Flesh",
+        "sentence":"Desconocido",
+        "sentence1":"Preparó un trozo de carne para la cena"
+    },
+    {
+        "id": 176,
+        "text": "Net",
+        "spanish":"Red",
+        "sentence":"desconocido",
+        "sentence1":"Tejió redes con hilos de plata"
+
+    },
+    {
+        "id": 177,
+        "text": "Icing",
+        "spanish":"Icing",
+        "sentence":"Desconocido",
+        "sentence1":"Había un postre con deliciosos icing"
+    },
+    {
+        "id": 178,
+        "text": "Dalmatian",
+        "spanish":"Dálmata",
+        "sentence":"Desconocido",
+        "sentence1":"Dos dálmatas se encontraron en el parque"
+    },
+    {
+        "id": 179,
+        "text": "Speedboat",
+        "spanish":"Lancha a motor",
+        "sentence":"Desconocido",
+        "sentence1":"Cruzaron el río de la plata en sus lanchas"
+    },
+    {
+        "id": 180,
+        "text": "Trunk",
+        "spanish":"Tronco",
+        "sentence":"Desconocido",
+        "sentence1":"Cayó un rayo en el tronco"
+    },
+    {
+        "id": 181,
+        "text": "Coffee",
+        "spanish":"Café",
+        "sentence":"Desconocido",
+        "sentence1":"Las dos chicas se reunieron a tomar café"
+    },
+    {
+        "id": 182,
+        "text": "Soccer",
+        "spanish":"Fútbol",
+        "sentence":"Desconocido",
+        "sentence1":"Perdieron por penales la final del torneo fútbol"
+    },
+    {
+        "id": 183,
+        "text": "Ragdoll",
+        "spanish":"Muñeca de trapo",
+        "sentence":"Desconocido",
+        "sentence1":"Encontró la muñeca de trapo en el salón"
+    },
+    {
+        "id": 184,
+        "text": "Food",
+        "spanish":"Comida",
+        "sentence":"Desconocido",
+        "sentence1":"Le pibi preparó comida Indú"
+    },
+    {
+        "id": 185,
+        "text": "Standing",
+        "spanish":"De pie",
+        "sentence":"desconocido",
+        "sentence1":"Estuvieron horas de pie esperando la entrada al recital"
+    },
+    {
+        "id": 186,
+        "text": "Fiction",
+        "spanish":"Ficción",
+        "sentence":"desconocido",
+        "sentence1":"Armaron ficciones toda la noche"
+
+
+    },
+    {
+        "id": 187,
+        "text": "Fruit",
+        "spanish":"Fruto",
+        "sentence":"desconocido",
+        "sentence1":"Probaron toda clase de frutos rojos"
+    },
+    {
+        "id": 188,
+        "text": "Pho",
+        "spanish":"Pho",
+        "sentence":"desconocido",
+        "sentence1":"Tras aterrizar en el aeropuerto probaron un delicioso Pho"
+    },
+    {
+        "id": 189,
+        "text": "Sparkler",
+        "spanish":"Bengala",
+        "sentence":"desconocido",
+        "sentence1":"Se escucharon decenas de bengalas en la avenida"
+    },
+    {
+        "id": 190,
+        "text": "Presentation",
+        "spanish":"Presentación",
+        "sentence":"Desconocido",
+        "sentence1":"Hicieron la primera presentación de su producto estrella"
+    },
+    {
+        "id": 191,
+        "text": "Swing",
+        "spanish":"Swing",
+        "sentence":"desconocido",
+        "sentence1":"Bailaron swing toda la noche"
+    },
+    {
+        "id": 192,
+        "text": "Cairn terrier",
+        "spanish":"Cairn terrier",
+        "sentence":"desconocido",
+        "sentence1":"Le regalaron un cairn terrier en su cumpleaños"
+    },
+    {
+        "id": 193,
+        "text": "Forest",
+        "spanish":"bosque",
+        "sentence":"desconocido",
+        "sentence1":"Caminó en círculos en el bosque"
+    },
+    {
+        "id": 194,
+        "text": "Flag",
+        "spanish":"bandera",
+        "sentence":"desconocido",
+        "sentence1":"Alzaron banderas blancas"
+    },
+    {
+        "id": 195,
+        "text": "Frigate",
+        "spanish":"Fragata",
+        "sentence":"desconocido",
+        "sentence1":"Fumó un cigarro antes de subir a la fragata"
+    },
+    {
+        "id": 196,
+        "text": "Foot",
+        "spanish":"Pie",
+        "sentence":"desconocido",
+        "sentence1":"Caminó en puntas de pie al llegar a casa"
+    },
+    {
+        "id": 197,
+        "text": "Jacket",
+        "spanish":"Chaquete",
+        "sentence":"desconocido",
+        "sentence1":"La vio con la chaqueta de cuero de los viernes"
+    },
+    {
+        "id": 199,
+        "text": "Pillow",
+        "spanish":"Almohada",
+        "sentence":"Desconocido",
+        "sentence1":"Confeccionó su primera almohada rellena de plumas"
+    },
+    {
+        "id": 201,
+        "text": "Bathing",
+        "spanish":"Baños",
+        "sentence":"Desconocido",
+        "sentence1":"Se besaron en el baño"
+    },
+    {
+        "id": 202,
+        "text": "Glacier",
+        "spanish":"glaciado",
+        "sentence":"Desconocido",
+        "sentence1":"El lugar estaba lleno de dulces glaciados"
+    },
+    {
+        "id": 203,
+        "text": "Gymnastics",
+        "spanish":"Gimnasta",
+        "sentence":"Desconocido",
+        "sentence1":"Le gimnasta debutó en las paralelas"
+    },
+    {
+        "id": 204,
+        "text": "Ear",
+        "spanish":"oído",
+        "sentence":"Desconocido",
+        "sentence1":"El pianista compuso una sonata con su oído absoluto"
+    },
+    {
+        "id": 205,
+        "text": "Flora",
+        "spanish":"Flora",
+        "sentence":"Desconocido",
+        "sentence1":"El desierto se cubrió de flora altiplánica"
+    },
+    {
+        "id": 206,
+        "text": "Shell",
+        "spanish":"Concha",
+        "sentence":"Desconocido",
+        "sentence1":"Había conchas nácar en toda la playa"
+    },
+    {
+        "id": 207,
+        "text": "Grandparent",
+        "spanish":"Abuelo",
+        "sentence":"Desconocido",
+        "sentence1":"Divisó a su abuelo a lo lejos"
+    },
+    {
+        "id": 208,
+        "text": "Ruins",
+        "spanish":"Ruinas",
+        "sentence":"Desconocido",
+        "sentence1":"Fueron a recoger los restos de la casa derrumbada"
+    },
+    {
+        "id": 209,
+        "text": "Eyelash",
+        "spanish":"Pestaña",
+        "sentence":"Desconocido",
+        "sentence1":"Prendió la vela y quemó sus petañas"
+    },
+    {
+        "id": 210,
+        "text": "Bunk bed",
+        "spanish":"Litera",
+        "sentence":"Desconocido",
+        "sentence1":"Se acomodó en la litera para dormir profundamente"
+    },
+    {
+        "id": 211,
+        "text": "Balance",
+        "spanish":"Equilibrar",
+        "sentence":"Desconocido",
+        "sentence1":"Aprendió a usar la cuarda floja con máximos equilibrio"
+    },
+    {
+        "id": 212,
+        "text": "Backpacking",
+        "spanish":"Mochilero",
+        "sentence":"Descoconocido",
+        "sentence1":"Las mochileras iniciaron su ruta en los confines de la patagonia"
+    },
+    {
+        "id": 213,
+        "text": "Horse",
+        "spanish":"Caballo",
+        "sentence":"Desconocido",
+        "sentence1":"El caballo alado apareció frente a las montañas"
+    },
+    {
+        "id": 214,
+        "text": "Glitter",
+        "spanish":"Glitter",
+        "sentence":"Desconocido",
+        "sentence1":"Se pusieron glitter de colores para celebrar"
+    },
+    {
+        "id": 215,
+        "text": "Saucer",
+        "spanish":"Platillo",
+        "sentence":"Desconocido",
+        "sentence1":"En la caravana tocaron platillos todo el día"
+    },
+    {
+        "id": 216,
+        "text": "Hair",
+        "spanish":"pelo",
+        "sentence":"Desconocido",
+        "sentence1":" Apareció le chique de los cabello de fuego"
+
+    },
+    {
+        "id": 217,
+        "text": "Miniature",
+        "spanish":"miniatura",
+        "sentence":"desconocido",
+        "sentence1":"En el museo encontraron la ciudad que habitaron en miniatura"
+    },
+    {
+        "id": 218,
+        "text": "Crowd",
+        "spanish":"multitud",
+        "sentence":"desconocido",
+        "sentence1":"Les pibis se perdieron entre la multitud"
+    },
+    {
+        "id": 219,
+        "text": "Curtain",
+        "spanish":"Cortina",
+        "sentence":"Desconocido",
+        "sentence1":"Se abrieron las cortinas para la aparición de los malabaristas"
+    },
+    {
+        "id": 220,
+        "text": "Icon",
+        "spanish":"Ícono",
+        "sentence":"Desconocido",
+        "sentence1":"En la pantalla de su PC tenía cientos de íconos repetidos"
+    },
+    {
+        "id": 221,
+        "text": "Pixie-bob",
+        "spanish":"Pixie-bob",
+        "sentence":"Desconocido",
+        "sentence1":"Pasó por el ventanal un hermoso pixie-bob"
+    },
+    {
+        "id": 222,
+        "text": "Herd",
+        "spanish":"Rebaño",
+        "sentence":"Desconocido",
+        "sentence1":"El arriero salió con su rebaño a la cordillera"
+
+    },
+    {
+        "id": 223,
+        "text": "Insect",
+        "spanish":"insecto",
+        "sentence":"Desconocido",
+        "sentence1":"Al acercarse al río escucharon un coro de insectos"
+    },
+    {
+        "id": 224,
+        "text": "Ice",
+        "spanish":"Hielo",
+        "sentence":"Desconocido",
+        "sentence1":"Se lanzó a patinar sobre el hielo del lago"
+    },
+    {
+        "id": 225,
+        "text": "Bangle",
+        "spanish":"Brazalete",
+        "sentence":"Desconocido",
+        "sentence1":"Se puso brazaletes de cobre para atraer la  fortuna"
+    },
+    {
+        "id": 226,
+        "text": "Flap",
+        "spanish":"solapa",
+        "sentence":"desconocido",
+        "sentence1":"Guardo la cadena en la solapa de su abrigo"
+    },
+    {
+        "id": 227,
+        "text": "Jewellery",
+        "spanish":"joyería",
+        "sentence":"desconocido",
+        "sentence1":"Llenó la vitrina de piezas de joyería"
+
+    },
+    {
+        "id": 228,
+        "text": "Knitting",
+        "spanish":"tejido",
+        "sentence":"desconocido",
+        "sentence1":"Se puso el sweater tejido por ella"
+    },
+    {
+        "id": 229,
+        "text": "Centrepiece",
+        "spanish":"centro de mesa",
+        "sentence":"desconocido",
+        "sentence1":"Colocó las muñeca rusa como de mesa"
+    },
+    {
+        "id": 230,
+        "text": "Outerwear",
+        "spanish":"Ropa de calle",
+        "sentence":"desconocido",
+        "sentence1":"Entró con ropa de calle al internado"
+    },
+    {
+        "id": 231,
+        "text": "Love",
+        "spanish":"amor",
+        "sentence":"desconocido",
+        "sentence1":"Cupido lanzó flechas de amor sobre los piratas errantes"
+    },
+    {
+        "id": 232,
+        "text": "Muscle",
+        "spanish":"Músculo",
+        "sentence":"desconocido",
+        "sentence1":"Tomando la maleta tuvo un desgarro muscular"
+    },
+    {
+        "id": 233,
+        "text": "Motorcycle",
+        "spanish":"Motocicleta",
+        "sentence":"desconocido",
+        "sentence1":"Montada en motocicleta recorrió desde la patagonia al caribe"
+    },
+    {
+        "id": 234,
+        "text": "Money",
+        "spanish":"dinero",
+        "sentence":"desconocido",
+        "sentence1":"Encontró una moneda de hace tres siglos sobre la mesa"
+    },
+    {
+        "id": 235,
+        "text": "Mosque",
+        "spansih":"Mezquita",
+        "sentence":"Desconocido",
+        "sentence1":"Con inmenso respeto se adentró en la mezquita"
+    },
+    {
+        "id": 236,
+        "text": "Tableware",
+        "spanish":"Vajilla",
+        "sentence":"Desconocido",
+        "sentence1":"Puso la vajilla sobre la mesa para pasar noche buena"
+    },
+    {
+        "id": 237,
+        "text": "Ballroom",
+        "spanish":"Salón de baile",
+        "sentence":"desconocido",
+        "sentence1":"El salón de baile explotó en aplausos tras verles bailar tango"
+
+    },
+    {
+        "id": 238,
+        "text": "Kayak",
+        "spanish":"Kayak",
+        "sentence":"desconocido",
+        "sentence1":"Se puso a practicar kayak toda la tarde"
+    },
+    {
+        "id": 239,
+        "text": "Leisure",
+        "spanish":"Ocio",
+        "sentence":"desconocido",
+        "sentence1":"Tuvo un día de ocio"
+    },
+    {
+        "id": 240,
+        "text": "Receipt",
+        "spanish":"Recibo",
+        "sentence":"Desconocido",
+        "sentence1":"Guardó su recibo en la chaqueta"
+    },
+    {
+        "id": 241,
+        "text": "Lake",
+        "spanish":"Lago",
+        "sentence":"Desconocido",
+        "sentence1":"Encontró un tiburón en lo profundo del lago"
+    },
+    {
+        "id": 242,
+        "text": "Lighthouse",
+        "spanish":"Faro",
+        "sentence":"Desconocido",
+        "sentence1":"Después de tres meses estar en alta mar vieron el faro de la costa "
+    },
+    {
+        "id": 243,
+        "text": "Bridle",
+        "spanish":"Brida",
+        "sentence":"Desconocido",
+        "sentence1":"Se rompió la brida que unía las canillas"
+    },
+    {
+        "id": 244,
+        "text": "Leather",
+        "spanish":"Cuero",
+        "sentence":"desconocido",
+        "sentence1":"Hizo un tambor de cuero"
+    },
+    {
+        "id": 245,
+        "text": "Horn",
+        "spanish":"Bocina",
+        "sentence":"desconocido",
+        "sentence1":"Se armó una caravana de bocinas"
+    },
+    {
+        "id": 246,
+        "text": "Strap",
+        "spanish":"Correa",
+        "sentence":"desconocido",
+        "sentence1":"En el baúl encontró su vieja correa"
+    },
+    {
+        "id": 247,
+        "text": "Lego",
+        "spanish":"lego",
+        "sentence":"desconocido",
+        "sentence1":"Les niñes armaron un castillo de legos"
+
+
+    },
+    {
+        "id": 248,
+        "text": "Scuba diving",
+        "spanish":"buceo",
+        "sentence":"desconocido",
+        "sentece1":"El primer día del verano comenzó a practicar buceo"
+
+    },
+    {
+        "id": 249,
+        "text": "Leggings",
+        "spanish":"polainas",
+        "sentence":"desconocido",
+        "sentence1":"Para la tocata se puso sus polainas preferidas"
+    },
+    {
+        "id": 250,
+        "text": "Pool",
+        "spanish":"pool",
+        "sentence":"desconocido",
+        "sentence1":"Entró al salón de pool"
+
+    },
+    {
+        "id": 251,
+        "text": "Musical instrument",
+        "spanish":"instrumento musical",
+        "sentence":"desconocido",
+        "sentence1":"Empacó su intrumento musical para emprender el viaje "
+    },
+    {
+        "id": 252,
+        "text": "Musical",
+        "spanish":"musical",
+        "sentence":"desconocido",
+        "sentence1":"Abrió la cajita musical"
+    },
+    {
+        "id": 253,
+        "text": "Metal",
+        "spanish":"Metal",
+        "sentence":"desconocido",
+        "sentence1":"Sintió el sonido de metal a la distancia"
+    },
+    {
+        "id": 254,
+        "text": "Moon",
+        "spanish":"luna",
+        "sentence":"desconocido",
+        "sentence1":"Vio la luna llena desde la orilla del lago"
+    },
+    {
+        "id": 255,
+        "text": "Blazer",
+        "spanish":"blazer",
+        "sentence":"desconocido",
+        "sentence1":"Se puso el blazer para dar la conferencia"
+    },
+    {
+        "id": 256,
+        "text": "Marriage",
+        "spanish":"matrimonio",
+        "sentence":"desconocido",
+        "sentence1":"Una caravana de autos y bocinas sucedió el matrimonio"
+    },
+    {
+        "id": 257,
+        "text": "Mobile phone",
+        "spanish":"celular",
+        "sentence":"desconocido",
+        "sentence1":"A las cuatro de la mañana sonó el celular"
+    },
+    {
+        "id": 258,
+        "text": "Militia",
+        "spanish":"milicia",
+        "sentence":"desconocido",
+        "sentence1":"Una milicia llegó a las cercanías de la región austral"
+    },
+    {
+        "id": 259,
+        "text": "Tablecloth",
+        "spanish":"manteles",
+        "sentence":"desconocido",
+        "sentence1":"Cubrieron de manteles blancos las mesas para el café de gabinete"
+    },
+    {
+        "id": 260,
+        "text": "Party",
+        "spanish":"fiesta",
+        "sentence":"desconocido",
+        "sentence1":"Al amanecer abandonaron la fiesta"
+    },
+    {
+        "id": 261,
+        "text": "Nebula",
+        "spanish":"nebulosa",
+        "sentence":"desconocido",
+        "sentence1":"El satélite llegó a la nebulosa"
+    },
+    {
+        "id": 262,
+        "text": "News",
+        "spanish":"noticias",
+        "sentence":"desconocido",
+        "sentence1":"Las noticias de la mañana anunciaron el huracán que estaba por llegar "
+    },
+    {
+        "id": 263,
+        "text": "Newspaper",
+        "spanish":"periódico",
+        "sentence":"desconocido",
+        "sentence1":"La fotografía de la chica cubrió la tapa de todos los periódicos"
+    },
+    {
+        "id": 265,
+        "text": "Piano",
+        "spanish":"piano",
+        "sentence":"desconocido",
+        "sentence1":"Pasó la noche tocando el piano de cola"
+    },
+    {
+        "id": 266,
+        "text": "Plant",
+        "spanish":"planta",
+        "sentence":"desconocido",
+        "sentence1":"La plantita dió su primera flor en pleno invierno"
+    },
+    {
+        "id": 267,
+        "text": "Passport",
+        "spanish":"pasaporte",
+        "sentence":"desconocido",
+        "sentence1":"Logró obtener un pasaporte falso"
+    },
+    {
+        "id": 268,
+        "text": "Penguin",
+        "spanish":"Pinguino",
+        "sentence":"desconocido",
+        "sentence1":"Los pinguinos emprendieron su marcha al mar austral"
+    },
+    {
+        "id": 269,
+        "text": "Shikoku",
+        "spanish":"Shikoku",
+        "sentence":"Desconocido",
+        "sentence1":"El shikoku ladró al ver la carrosa"
+    },
+    {
+        "id": 270,
+        "text": "Palace",
+        "spanish":"palacio",
+        "sentence":"desconocido",
+        "sentence1":"Entró al palacio a la medianoche"
+    },
+    {
+        "id": 271,
+        "text": "Doily",
+        "spanish":"Mantel a crochet",
+        "sentence":"Desconocido",
+        "sentence1":"Puso sobre su veladora un mantel a crochet"
+    },
+    {
+        "id": 272,
+        "text": "Polo",
+        "spanish":"Polo",
+        "sentence":"Desconocido",
+        "sentence1":"Anduvieron en el Polo por la autopista"
+    },
+    {
+        "id": 273,
+        "text": "Paper",
+        "spanish":"papel",
+        "sentence":"desconocido",
+        "sentence1":"Rompió los papeles que guardabe en el baúl"
+    },
+    {
+        "id": 274,
+        "text": "Pop music",
+        "spanish":"pop",
+        "sentence":"desconocido",
+        "sentence1":"Bailaron pop toda la noche"
+    },
+    {
+        "id": 275,
+        "text": "Skiff",
+        "spanish":"esquife",
+        "sentence":"desconocido",
+        "sentence1":"Remaron en su esquife toda la noche"
+    },
+    {
+        "id": 276,
+        "text": "Pizza",
+        "spanish":"pizza",
+        "sentence":"desconocido",
+        "sentence1":"Acompañaron la noche de películas con pizzas"
+    },
+    {
+        "id": 277,
+        "text": "Pet",
+        "spanish":"mascota",
+        "sentence":"desconocido",
+        "sentence1":"Ese día se lleno el parque para mascotas"
+    },
+    {
+        "id": 278,
+        "text": "Quilting",
+        "spanish":"acolchado",
+        "sentence":"desconocido",
+        "sentence1":"Cubrieron las sillas nuevas con un acolchado especial"
+    },
+    {
+        "id": 279,
+        "text": "Cage",
+        "spanish":"jaula",
+        "sentence":"desconocido",
+        "sentence1":"El leó se escapó de la jaula"
+    },
+    {
+        "id": 280,
+        "text": "Skateboard",
+        "spanish":"patineta",
+        "sentence":"desconocido",
+        "sentence1":"Sintió una racha de emociones al subirse a su patineta"
+    },
+    {
+        "id": 281,
+        "text": "Surfing",
+        "spanish":"surfing",
+        "sentence":"desconocido",
+        "sentence1":"Comenzó a atardecer mientras hacía surfing"
+    },
+    {
+        "id": 282,
+        "text": "Rugby",
+        "spanish":"rugby",
+        "sentence":"desconocido",
+        "sentence1":"Ganaron el torneo de rugby"
+    },
+    {
+        "id": 283,
+        "text": "Lipstick",
+        "spanish":"Lapiz labial",
+        "sentence":"desconocido",
+        "sentence1":"Encontró bocas marcadas con labial en el espejo de su baño"
+
+    },
+    {
+        "id": 284,
+        "text": "River",
+        "spanish":"Río",
+        "sentence":"desconocido",
+        "sentence1":"Le pibi lanzó las cartas al río"
+    },
+    {
+        "id": 285,
+        "text": "Race",
+        "spanish":"raza",
+        "sentence":"desconocido",
+        "sentence1":"Para multiplicar adherentes, se le ocurrió inventar un mito sobre las razas"
+    },
+    {
+        "id": 286,
+        "text": "Rowing",
+        "spanish":"Remo",
+        "sentence":"desconocido",
+        "sentence1":"Tomaron los remos para atravesar el río"
+    },
+    {
+        "id": 287,
+        "text": "Road",
+        "spanish":"camino",
+        "sentence":"desconocido",
+        "sentence1":"El camino se cubrió de niebla"
+    },
+    {
+        "id": 288,
+        "text": "Running",
+        "spanish":"correr",
+        "sentence":"desconocido",
+        "sentence1":"Después de romper se dedicó a correr todas la noches"
+    },
+    {
+        "id": 289,
+        "text": "Room",
+        "sentence":"desconocido",
+        "sentence1":"A través del teléfono escuchó la voz de un desconocido"
+    },
+    {
+        "id": 290,
+        "text": "Roof",
+        "spanish":"techo",
+        "sentence":"desconocido",
+        "sentence1":"La tormenta voló el techo de la casas"
+    },
+    {
+        "id": 291,
+        "text": "Star",
+        "spanish":"estrella",
+        "sentence":"desconocido",
+        "sentence1":"La estrella se transformó en cometa"
+    },
+    {
+        "id": 292,
+        "text": "Sports",
+        "spanish":"deportes",
+        "sentence":"desconocido",
+        "sentence1":"Escalar se conviritió en su deporte preferido"
+    },
+    {
+        "id": 293,
+        "text": "Shoe",
+        "spanish":"zapato",
+        "sentence":"desconocido",
+        "sentece1":"Para entrar a la milonga se puso sus zapaztos de tacón"
+    },
+    {
+        "id": 294,
+        "text": "Tubing",
+        "spanish":"tubería",
+        "sentece":"desconocido",
+        "sentence1":"La tubería del vviejo edificio se rompió"
+    },
+    {
+        "id": 295,
+        "text": "Space",
+        "spanish":"espacio",
+        "sentence":"desconocido",
+        "sentence1":"Les astronautas flotaron al llegar al espacio"
+    },
+    {
+        "id": 296,
+        "text": "Sleep",
+        "spanish":"dormir",
+        "sentence":"desconocido",
+        "sentence1":"Le dieron pastillas para que navegara en la tierra del sueño"
+    },
+    {
+        "id": 297,
+        "text": "Skin",
+        "spanish":"piel",
+        "sentence":"desconocido",
+        "sentence1":"Se erizó la piel tras sentir los tambores"
+    },
+    {
+        "id": 298,
+        "text": "Swimming",
+        "spanish":"natación",
+        "sentence":"desconocido",
+        "sentence1":"Se lanzaron a nadar al río"
+    },
+    {
+        "id": 299,
+        "text": "School",
+        "spanish":"escuela",
+        "sentence":"desconocido",
+        "sentence1":"Después de un año se encontraron en la escuela"
+    },
+    {
+        "id": 300,
+        "text": "Sushi",
+        "spanish":"sushi",
+        "sentence":"desconocido",
+        "sentence1":"Encargaron sushi en la primera cita"
+    },
+    {
+        "id": 301,
+        "text": "Loveseat",
+        "spanish":"Sofá para dos",
+        "sentence":"desconocido",
+        "sentence1":"Se acurrucaron en el sofá"
+    },
+    {
+        "id": 302,
+        "text": "Superman",
+        "spanish":"superman",
+        "sentence":"desconocido",
+        "sentence1":"Superman llegó a la cima del rescacielos"
+    },
+    {
+        "id": 303,
+        "text": "Cool",
+        "spanish":"frío",
+        "sentence":"desconocido",
+        "sentence1":"Una ráfaga de aire frío pasó entre los amantes"
+        
+    },
+    {
+        "id": 304,
+        "text": "Skiing",
+        "spanish":"esquí",
+        "sentence":"desconocido",
+        "sentence1":"Anduvieron en esquí en las montañas"
+    },
+    {
+        "id": 305,
+        "text": "Submarine",
+        "spanish":"submarino",
+        "sentence":"desconocido",
+        "sentence1":"Se sumergieron en el submarino para explorar en oceáno"
+    },
+    {
+        "id": 306,
+        "text": "Song",
+        "spanish":"canción",
+        "sentence":"desconocido",
+        "sentence1":"Escucharon una canción profunda en el desierto"
+    },
+    {
+        "id": 307,
+        "text": "Class",
+        "spanish":"clase",
+        "sentence":"desconocido",
+        "sentence1":"Escucharon atentamente la primera clase de astrofísica"
+    },
+    {
+        "id": 308,
+        "text": "Skyscraper",
+        "spanish":"rascacielos",
+        "sentence":"desconocido",
+        "sentence1":" Observó la ciudad desde la cima del resccacielos"
+    },
+    {
+        "id": 309,
+        "text": "Volcano",
+        "spanish":"volcán",
+        "sentence":"desconocido",
+        "sentence1":"El volcán entró en erupción"
+    },
+    {
+        "id": 310,
+        "text": "Television",
+        "spanish":"televisión",
+        "sentence":"televisión",
+        "sentence1":"La historia de la chica apareció en televisión"
+    },
+    {
+        "id": 311,
+        "text": "Rein",
+        "spanish":"rienda",
+        "sentence":"desconocido",
+        "sentence1":"Tomó las riendas del caballo para salir de excursión"
+    },
+    {
+        "id": 312,
+        "text": "Tattoo",
+        "spanish":"tatuaje",
+        "sentence":"desconocido",
+        "sentence1":"Se tatuó la piel para recordar el día que consiguió su libertad"
+    },
+    {
+        "id": 313,
+        "text": "Train",
+        "spanish":"tren",
+        "sentence":"desconocido",
+        "sentence1":"Tomaron el tren para llegar a la costa"
+    },
+    {
+        "id": 314,
+        "text": "Handrail",
+        "spanish":"petril",
+        "sentence":"desconocido",
+        "sentence1":"Se afirmó del petril para cruzar el puente movedizo"
+    },
+    {
+        "id": 315,
+        "text": "Cup",
+        "spanish":"copa",
+        "sentence":"desconocido",
+        "sentence1":"Tomaron juntas muchas copas de vino"
+    },
+    {
+        "id": 316,
+        "text": "Vehicle",
+        "spanish":"vehículo",
+        "sentence":"desconocido",
+        "sentence1":"Se subieron al helicóptero para emprender su labor"
+        
+    },
+    {
+        "id": 317,
+        "text": "Handbag",
+        "spanish":"bolso de mano",
+        "sentence":"desconocido",
+        "sentence1":"Puso sus calmantes en el equipaje de mano"
+
+    },
+    {
+        "id": 318,
+        "text": "Lampshade",
+        "spanish":"pantalla de lámpara",
+        "sentence":"desconocido",
+        "sentence1":"Dibujó estrellitas en la pantalla de su lámpara"
+    },
+    {
+        "id": 319,
+        "text": "Event",
+        "spanish":"evento",
+        "sentence":"desconocido",
+        "sentence1":"Los clarinetes dieron inicio al evento de asunción del mando"
+    },
+    {
+        "id": 320,
+        "text": "Wine",
+        "spanish":"vino",
+        "sentence":"desconocido",
+        "sentence1":"Acompañaro la cena de una copa de vino"
+    },
+    {
+        "id": 321,
+        "text": "Wing",
+        "spanish":"Ala",
+        "sentence":"desconocido",
+        "sentence1":"Sintió como le crecieron fabulosas alas"
+    },
+    {
+        "id": 322,
+        "text": "Wheel",
+        "spanish":"rueda",
+        "sentence":"desconocido",
+        "sentence1":"se pinchó la rueda de su bicicleta"
+
+    },
+    {
+        "id": 323,
+        "text": "Wakeboarding",
+        "spanish":"Practicó por primera vez wakeboarding"
+    },
+    {
+        "id": 324,
+        "text": "Web page",
+        "spanish":"página web",
+        "sentence":"desconocido",
+        "sentence1":"Terminó de implementar la aplicación para la analítica de la web"
+    },
+    {
+        "id": 327,
+        "text": "Ranch",
+        "spanish":"rancho",
+        "sentence":"desconocido",
+        "sentence1":"entraron juntes al rancho de la abuela"
+    },
+    {
+        "id": 328,
+        "text": "Fishing",
+        "spanish":"pesca",
+        "sentence":"desconocido",
+        "sentence1":"Se despertó de madrugada para la jornada de pesca"
+    },
+    {
+        "id": 329,
+        "text": "Heart",
+        "spanish":"corazón",
+        "sentence":"desconocido",
+        "sentence1":"Al verlo su corazón se agitó"
+    },
+    {
+        "id": 330,
+        "text": "Cotton",
+        "spanish":"algodón",
+        "sentence":"desconocido",
+        "sentence1":"Cosecharon el algodón en la platación"
+    },
+    {
+        "id": 331,
+        "text": "Cappuccino",
+        "spanish":"capuccino",
+        "sentence":"desconocido",
+        "sentence1":"Pidió un capuccino para esperar el avión"
+    },
+    {
+        "id": 332,
+        "text": "Bread",
+        "spanish":"pan de molde",
+        "sentence":"desconocido",
+        "sentence1":"Comió un pan con frutos secos"
+    },
+    {
+        "id": 333,
+        "text": "Sand",
+        "spanish":"arena",
+        "sentence":"desconocido",
+        "sentence1":"Estuvieron toda la tarme armando castillos de arena"
+    },
+    {
+        "id": 335,
+        "text": "Museum",
+        "spanish":"museo",
+        "sentence":"desconocido",
+        "sentence1":"Entraron al museo de la electrónica"
+    },
+    {
+        "id": 336,
+        "text": "Helicopter",
+        "spanish":"Helicóptero",
+        "sentence":"desconocido",
+        "sentence1":"Se subieron al helicóptero para controlar el incendio"
+    },
+    {
+        "id": 337,
+        "text": "Mountain",
+        "spanish":"montaña",
+        "sentence":"desconocido",
+        "sentence1":"Llegaron a la cima de la montaña de 3000 metrs"
+    },
+    {
+        "id": 338,
+        "text": "Duck",
+        "spanish":"pato",
+        "sentence":"desconocido",
+        "sentence1":"Escuchaba los patos mientras se acercada al río"
+    },
+    {
+        "id": 339,
+        "text": "Soil",
+        "spanish":"suelo",
+        "sentence":"desconocido",
+        "sentence1":"El suelo se abrió"
+
+    },
+    {
+        "id": 340,
+        "text": "Turtle",
+        "spanish":"tortuga",
+        "sentence":"desconocido",
+        "sentence1":"Como todos los viernos la tortuga se refugió en la tierra"
+    },
+    {
+        "id": 341,
+        "text": "Crocodile",
+        "spanish":"cocodrilo",
+        "sentence":"desconocido",
+        "sentence1":"Mientras nadaba pudo ver los cocodrilos en la otra orilla"
+    },
+    {
+        "id": 342,
+        "text": "Musician",
+        "spanish":"músico",
+        "sentence":"desconocido",
+        "sentence1":"El músico tocó su badoneón en medio de la plaza"
+    },
+    {
+        "id": 343,
+        "text": "Sneakers",
+        "spanish":"zapatillas",
+        "sentence":"desconocido",
+        "sentence1":"Mientras andaba en bicicleta su zapatilla voló por los aires"
+    },
+    {
+        "id": 344,
+        "text": "Wool",
+        "spanish":"lana",
+        "sentence":"desconocido",
+        "sentence1":"Estuvieron tres días hilando la lana para vender"
+    },
+    {
+        "id": 345,
+        "text": "Ring",
+        "spanish":"anillo",
+        "sentence":"desconocido",
+        "sentence1":"El primer día del nuevo año se puso el anillo de su bisbuela"
+    },
+    {
+        "id": 346,
+        "text": "Singer",
+        "spanish":"cantante",
+        "sentence":"desconocido",
+        "sentence1":"La cantante estrenó su primera ópera"
+    },
+    {
+        "id": 347,
+        "text": "Carnival",
+        "spanish":"carnaval",
+        "sentence":"desconocido",
+        "sentence1":"Se vistieron para el carnaval"
+    },
+    {
+        "id": 348,
+        "text": "Snowboarding",
+        "spanish":"snowboarding",
+        "sentence":"desconocido",
+        "sentence1":"Hiceron snowboarding la temporada en la nieve"
+    },
+    {
+        "id": 349,
+        "text": "Waterskiing",
+        "spanish":"esquí de agua",
+        "sentence":"desconocido",
+        "sentence1":"Sintió la adrenalida de esquiar el agua"
+    },
+    {
+        "id": 350,
+        "text": "Wall",
+        "spanish":"muro",
+        "sentence":"desconocido",
+        "sentence1":"Por la tarde recorrieron la gran muralla china"
+    },
+    {
+        "id": 351,
+        "text": "Rocket",
+        "spanish":"cohete",
+        "sentence":"desconocido",
+        "sentence1":"Comenzaron a prototipar el cohete que lanzarían al espacio"
+    },
+    {
+        "id": 352,
+        "text": "Countertop",
+        "spanish":"encimera",
+        "sentence":"desconocido",
+        "sentence1":"pusieron una encimera sobre el lavavajilla"
+    },
+    {
+        "id": 353,
+        "text": "Beach",
+        "spanish":"playa",
+        "sentence":"desconocido",
+        "sentence1":"Pasaron la noche tomando cerveza en la playa"
+    },
+    {
+        "id": 354,
+        "text": "Rainbow",
+        "spanish":"arcoiris",
+        "sentence":"desconocido",
+        "sentence1":"Decidieron seguir el aircoiris como le aconsejaron los abuelos"
+    },
+    {
+        "id": 355,
+        "text": "Branch",
+        "spanish":"rama",
+        "sentence":"desconocido",
+        "sentence1":"El viento voló las ramas de los árboles"
+    },
+    {
+        "id": 356,
+        "text": "Moustache",
+        "spanish":"bigote",
+        "sentence":"desconocido",
+        "sentence1":"Se colocó bigotes postizos para adquirir su identidad secreta"
+    },
+    {
+        "id": 357,
+        "text": "Garden",
+        "spanish":"jardín",
+        "sentence":"desconocido",
+        "sentence1":"Tras semanas de dar vueltas errácticamente encontraron el jardín secreto"
+    },
+    {
+        "id": 358,
+        "text": "Gown",
+        "spanish":"vestido",
+        "sentence":"desconocido",
+        "sentence1":"El primer día de verano se puso un vestido rojo"
+    },
+    {
+        "id": 359,
+        "text": "Field",
+        "spanish":"campo",
+        "sentence":"desconocido",
+        "sentence1":"Encontraron el campo devastado por las tormentas"
+    },
+    {
+        "id": 360,
+        "text": "Dog",
+        "spanish":"perro",
+        "sentence":"desconocido",
+        "sentence1":"El perro pequeño aulló toda la noche"
+    },
+    {
+        "id": 361,
+        "text": "Superhero",
+        "spanish":"superhéroe",
+        "sentence":"desconocido",
+        "sentence1":"La superheroína usó sus poderes "
+    },
+    {
+        "id": 362,
+        "text": "Flower",
+        "spanish":"flor",
+        "sentence":"desconocido",
+        "sentence1":"Crecieron flores azules en el lugar donde hizo su promesa"
+    },
+    {
+        "id": 363,
+        "text": "Placemat",
+        "spanish":"individual",
+        "sentence":"desconocido",
+        "sentence1":"Olvidaron cubrir con individuales la mesa"
+    },
+    {
+        "id": 364,
+        "text": "Subwoofer",
+        "spanish":"altavoz",
+        "sentence":"desconocido",
+        "sentence1":"El psiquiatra echo a correr el altavoz con las grabaciones de sus pacientes"
+    },
+    {
+        "id": 365,
+        "text": "Cathedral",
+        "spanish":"catedral",
+        "sentence":"desconocido",
+        "sentence1":"Entraron a la catedral gótica"
+    },
+    {
+        "id": 366,
+        "text": "Building",
+        "spanish":"edificio",
+        "sentence":"desconocido",
+        "sentence1":"desde la terraza del edificio obervon la ciudad"
+    },
+    {
+        "id": 367,
+        "text": "Airplane",
+        "spanish":"Aeroplano",
+        "sentence":"desconocido",
+        "sentence1":"El aeroplano voló por los aires a máxima velocidad"
+    },
+    {
+        "id": 368,
+        "text": "Fur",
+        "spanish":"pelaje",
+        "sentence":"desconocido",
+        "sentence1":"Se erizó el pelaje del tigre"
+
+    },
+    {
+        "id": 369,
+        "text": "Bull",
+        "spanish":"toro",
+        "sentence":"desconocido",
+        "sentence1":"El toro desfiló por la ciudad"
+
+    },
+    {
+        "id": 370,
+        "text": "Bench",
+        "spanish":"banca",
+        "sentence":"desconocido",
+        "sentence1":"Encontró a su hermana sentada en la banca"
+    },
+    {
+        "id": 371,
+        "text": "Temple",
+        "spanish":"templo",
+        "sentence":"desconocido",
+        "sentence1":"entraron al templo a media noche"
+    },
+    {
+        "id": 372,
+        "text": "Butterfly",
+        "spanish":"mariposa",
+        "sentence":"desconocido",
+        "sentence1":"La oruga se transformó en mariposa"
+    },
+    {
+        "id": 373,
+        "text": "Model",
+        "spanish":"modelo",
+        "sentence":"desconocido",
+        "sentence1":"Terminó de realizar el modelo virtual"
+    },
+    {
+        "id": 374,
+        "text": "Marathon",
+        "spanish":"maratón",
+        "sentence":"desconocido",
+        "sentence1":"La chica comenzó la maratón"
+    },
+    {
+        "id": 375,
+        "text": "Needlework",
+        "spanish":"costura",
+        "sentence":"desconocido",
+        "sentence1":"Se rompieron las costuras de su cartera"
+    },
+    {
+        "id": 376,
+        "text": "Kitchen",
+        "spanish":"cocina",
+        "sentence":"desconocido",
+        "sentence1":"De la cocina emanaban olores de especies"
+    },
+    {
+        "id": 377,
+        "text": "Castle",
+        "spanish":"castillo",
+        "sentence":"desconocido",
+        "sentence1":"Entraron los juglares al castillo del señor"
+    },
+    {
+        "id": 378,
+        "text": "Aurora",
+        "spanish":"aurora",
+        "sentence":"desconocido",
+        "sentence1":"Y se durmió después de la aurora"
+    },
+    {
+        "id": 379,
+        "text": "Larva",
+        "spanish":"larva",
+        "sentence":"desconocido",
+        "sentence1":"Encontró cientos de larvas bajo la planta"
+    },
+    {
+        "id": 380,
+        "text": "Racing",
+        "spanish":"carreras",
+        "sentence":"desconocido",
+        "sentence1":"Presenciaron las carreras clandestinas en la noche"
+    },
+    {
+        "id": 382,
+        "text": "Airliner",
+        "spanish":"avión de línea",
+        "sentence":"desconocido",
+        "sentence1":"Se subieron al avión de línea"
+
+    },
+    {
+        "id": 383,
+        "text": "Dam",
+        "spanish":"presa",
+        "sentence":"desconocido",
+        "sentence1":"Desde el balcón del edificio divisó su presa"
+    },
+    {
+        "id": 384,
+        "text": "Textile",
+        "spanish":"textil",
+        "sentence":"desconocido",
+        "sentence1":"Entró a la vieja fábrica textil"
+    },
+    {
+        "id": 385,
+        "text": "Groom",
+        "spanish":"novio",
+        "sentence":"desconocido",
+        "sentence1":"Encotró a su novio al otro lado de la vereda"
+    },
+    {
+        "id": 386,
+        "text": "Fun",
+        "spanish":"divertido",
+        "sentence":"desconocido",
+        "sentence1":"Se diviertieron mucho jugando a las escondidas"
+    },
+    {
+        "id": 387,
+        "text": "Steaming",
+        "spanish":"humeante",
+        "sentence":"desconocido",
+        "sentence1":"Entró a la habitación humenate de palo santo"
+    },
+    {
+        "id": 388,
+        "text": "Vegetable",
+        "spanish":"verdura",
+        "sentence":"desconocido",
+        "sentence1":"Prepararon deliciosas verdurasa"
+    },
+    {
+        "id": 389,
+        "text": "Unicycle",
+        "spanish":"monociclo",
+        "sentence":"Vio a la malabarista sobre el monociclo",
+        "sentence1":"desconocido"
+    },
+    {
+        "id": 390,
+        "text": "Jeans",
+        "spanish":"jeans",
+        "sentence":"desconocido",
+        "sentence1":"para la fiesta usó su jeans preferido"
+    },
+    {
+        "id": 391,
+        "text": "Flowerpot",
+        "spanish":"florero",
+        "sentence":"desconocido",
+        "sentence1":"Usó el viejo florero para la cena"
+    },
+    {
+        "id": 392,
+        "text": "Drawer",
+        "spanish":"cajón",
+        "sentence":"desconocido",
+        "sentence1":"Tocó toda la noche el cajón peruano"
+    },
+    {
+        "id": 393,
+        "text": "Cake",
+        "spanish":"torta",
+        "sentence":"desconocido",
+        "sentence1":"Pusieron las velitas en la torta"
+    },
+    {
+        "id": 394,
+        "text": "Armrest",
+        "spanish":"brazo",
+        "sentence":"desconocido",
+        "sentence1":"Se tatuó su brazo"
+    },
+    {
+        "id": 395,
+        "text": "Aviation",
+        "spanish":"aviación",
+        "sentence":"desconocido",
+        "sentence1":"Entró a la aviación"
+    },
+    {
+        "id": 397,
+        "text": "Fog",
+        "spanish":"niebla",
+        "sentence":"desconocido",
+        "sentence1":"La cabaña se perdió en la niebla"
+    },
+    {
+        "id": 398,
+        "text": "Fireworks",
+        "spanish":"fuegos artificiales",
+        "sentence":"desconocido",
+        "sentence1":"Sonaron los fuegos artificiales en el mar"
+    },
+    {
+        "id": 399,
+        "text": "Farm",
+        "spanish":"granja",
+        "sentence":"desconocido",
+        "sentence1":"Los animales escaparon de la granja"
+    },
+    {
+        "id": 400,
+        "text": "Seal",
+        "spanish":"sello",
+        "sentence":"desconocido",
+        "sentence1":"Dejó su sello en la carta"
+    },
+    {
+        "id": 401,
+        "text": "Shelf",
+        "spanish":"estante",
+        "sentence":"desconocido",
+        "sentence1":"Se acercó al estante de 100 años"
+    },
+    {
+        "id": 402,
+        "text": "Bangs",
+        "spanish":"golpes",
+        "sentence":"desconocido",
+        "sentence1":"recibió los golpes en su cara"
+    },
+    {
+        "id": 403,
+        "text": "Lightning",
+        "spanish":"relámpago",
+        "sentence":"desconocido",
+        "sentence1":"vieron un relámpago sobre el mar" 
+    },
+    {
+        "id": 404,
+        "text": "Van",
+        "spanish":"camioneta",
+        "sentence":"desconocido",
+        "sentence1":"Se subieron a la camioneta para emprender el viaje"
+    },
+    {
+        "id": 405,
+        "text": "Sphynx",
+        "spanish":"esfinge",
+        "sentence":"desconocido",
+        "sentence1":"Resolvió el problema de la esfinge"
+    },
+    {
+        "id": 406,
+        "text": "Tire",
+        "spanish":"neumático",
+        "sentence":"desconocido",
+        "sentence1":"Se pinchó el nuemático del auto"
+    },
+    {
+        "id": 407,
+        "text": "Denim",
+        "spanish":"mezclilla",
+        "sentence":"desconocido",
+        "sentence1":"Le pibe puso sus pantalones de mezclilla"
+    },
+    {
+        "id": 408,
+        "text": "Prairie",
+        "spanish":"pradera",
+        "sentence":"desconocido",
+        "sentence1":"La lluvia cayó en la pradera"
+        
+    },
+    {
+        "id": 409,
+        "text": "Snorkeling",
+        "spanish":"bucear",
+        "sentence":"desconocido",
+        "sentence1":"La muchacha aprendió a bucear"
+    },
+    {
+        "id": 410,
+        "text": "Umbrella",
+        "spanish":"sombrilla",
+        "sentence":"desconocido",
+        "sentence1":"Olvidó su sombrilla en el tren"
+    },
+    {
+        "id": 411,
+        "text": "Asphalt",
+        "spanish":"asfalto",
+        "sentence":"desconocido",
+        "sentence1":"Pusieron asfalto en la vieja calle"
+    },
+    {
+        "id": 412,
+        "text": "Sailboat",
+        "spanish":"velero",
+        "sentence":"desconocido",
+        "sentence1":"Los dos navegaron en velero en el río"
+    },
+    {
+        "id": 413,
+        "text": "Basset hound",
+        "spanish":"sabueso",
+        "sentence":"desconocido",
+        "sentence1":"Durmió con su sabueso esa noche"
+    },
+    {
+        "id": 414,
+        "text": "Pattern",
+        "spanish":"Patrón",
+        "sentence":"desconocido",
+        "sentence1":"Reconoció el patrón secreto en el muro"
+    },
+    {
+        "id": 415,
+        "text": "Supper",
+        "spanish":"cena",
+        "sentence":"desconocido",
+        "sentence1":"Preparó una cena hindú para el encuentro"
+    },
+    {
+        "id": 416,
+        "text": "Veil",
+        "spanish":"velo",
+        "sentence":"desconocido",
+        "sentence1":"Reconoció a su amiga tras el velo"
+    },
+    {
+        "id": 417,
+        "text": "Waterfall",
+        "spanish":"cascada",
+        "sentence":"desconocido",
+        "sentence1":"Les tres pibis comenzaron a escuchar la cascada "
+    },
+    {
+        "id": 419,
+        "text": "Lunch",
+        "spanish":"almuerzo",
+        "sentence":"desconocido",
+        "sentence1":" Se encontraron en el barcito para el almuerzo"
+    },
+    {
+        "id": 420,
+        "text": "Odometer",
+        "spanish":"cuentakilómetros",
+        "sentence":"desconocido",
+        "sentence1":"Volvió a cero el kilometraje"
+    },
+    {
+        "id": 421,
+        "text": "Baby",
+        "spanish":"bebé",
+        "sentence":"desconocido",
+        "sentence1":"El bebé estalló en risas"
+    },
+    {
+        "id": 422,
+        "text": "Glasses",
+        "spanish":"lentes",
+        "sentence":"desconocido",
+        "sentence1":"Se puso sus gafas rosas"
+    },
+    {
+        "id": 423,
+        "text": "Car",
+        "spanish":"auto",
+        "sentence":"desconocido",
+        "sentence1":"El auto negro aceleró en la autopista"
+    },
+    {
+        "id": 424,
+        "text": "Aircraft",
+        "spanish":"avión de papel",
+        "sentence":"desconocido",
+        "sentence1":"Lanzó su avioncito de papel a través de la salita"
+    },
+    {
+        "id": 425,
+        "text": "Hand",
+        "spanish":"mano",
+        "sentence":"desconocido",
+        "sentence1":"En la multitud, tomó de la mano a su amiga"
+    },
+    {
+        "id": 426,
+        "text": "Rodeo",
+        "spanish":"rodeo",
+        "sentence":"desconocido",
+        "sentence1":"Temblorosa presenciaba el rodeo"
+    },
+    {
+        "id": 427,
+        "text": "Canyon",
+        "spanish":"Cañón",
+        "sentence":"desconocido",
+        "sentence1":"Sonó el cañón a lo lejos"
+    },
+    {
+        "id": 428,
+        "text": "Meal",
+        "spanish":"comida",
+        "sentence":"desconocido",
+        "sentence1":"Probaron una extraña comida"
+    },
+    {
+        "id": 429,
+        "text": "Softball",
+        "spanish":"softball",
+        "sentence":"desconocido",
+        "sentence1":"Les chiques jugaron su primer partido de softball"
+    },
+    {
+        "id": 430,
+        "text": "Alcohol",
+        "spanish":"Alcohol",
+        "sentence":"desconocido",
+        "sentence1":"Al despertar sintió el alcohol en su cuerpo"
+    },
+    {
+        "id": 431,
+        "text": "Bride",
+        "spanish":"novia",
+        "sentence":"desconocido",
+        "sentence1":"La novia corrió por las calles"
+    },
+    {
+        "id": 432,
+        "text": "Swamp",
+        "spanish":"pantano",
+        "sentence":"desconocido",
+        "sentence1":"Los chicos no pudieron caminar en el pantano"
+    },
+    {
+        "id": 433,
+        "text": "Pie",
+        "spanish":"Tarta",
+        "sentence":"desconocido",
+        "sentence1":"Merendaron tartas"
+    },
+    {
+        "id": 434,
+        "text": "Bag",
+        "spanish":"bolsa",
+        "sentence":"desconocida",
+        "sentence1":"En la mañana encontraron una bolsa pesada en medio de la peatonal"
+    },
+    {
+        "id": 435,
+        "text": "Joker",
+        "spanish":"bufón",
+        "sentence":"desconocido",
+        "sentence1":"El bufón apareció en medio de la fiesta"
+    },
+    {
+        "id": 436,
+        "text": "Supervillain",
+        "spanish":"supervillano",
+        "sentence":"desconocido",
+        "sentence1":"El supervillanó lanzó sus rayos desde el balcón"
+    },
+    {
+        "id": 437,
+        "text": "Army",
+        "spanish":"ejército",
+        "sentence":"desconocido",
+        "sentence1":"Un ejército violeta avanzó sobre la ciudad"
+    },
+    {
+        "id": 438,
+        "text": "Canoe",
+        "spanish":"canoa",
+        "sentence":"desconocido",
+        "sentence1":"Esa tarde se dedicaron a reparar las canoas"
+    },
+    {
+        "id": 439,
+        "text": "Selfie",
+        "spanish":"selfie",
+        "sentence":"desconocido",
+        "sentence1":"Se tomó un selfie en la vieja ciudad"
+    },
+    {
+        "id": 440,
+        "text": "Rickshaw",
+        "spanish":"bicitaxi",
+        "sentence":"desconocido",
+        "sentence1":"Tomó la bicitaxi para llegar al siguiente poblado"
+    },
+    {
+        "id": 441,
+        "text": "Barn",
+        "spanish":"granero",
+        "sentence":"desconocido",
+        "sentence1":"De pronto se encontró frente al granero"
+    },
+    {
+        "id": 442,
+        "text": "Archery",
+        "spanish":"Tiro al arco",
+        "sentence":"desconocido",
+        "sentence1":"La niña estuvo toda la tarde practicando tiro al arco"
+    },
+    {
+        "id": 443,
+        "text": "Aerospace engineering",
+        "spanish":"Ingeniería aeroespacial",
+        "sentence":"desconocido",
+        "sentence1":"Presentó su proyecto en el congreso de ingenería aeroespacial"
+    },
+    {
+        "id": 445,
+        "text": "Storm",
+        "spanish":"tormenta",
+        "sentence":"desconocido",
+        "sentence1":"La despertó la tormenta"
+    },
+    {
+        "id": 446,
+        "text": "Helmet",
+        "spanish":"casco",
+        "sentence":"desconocido",
+        "sentence1":"Cuando se quitó el caso pudo reconocer a su viejo amigo"
+    }
+]
