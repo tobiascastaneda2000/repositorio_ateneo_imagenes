@@ -168,7 +168,7 @@ if ( displayTimeSentence< sentences.length)
   else{ p.fill(250,60,20,150);      
     p.textAlign(p.CENTER);
     p.textFont(Font2,50);
-    p.text("Fin de la hsitoria",900,500); }
+    p.text("Fin de la historia",900,500); }
 
 
 

@@ -10,8 +10,9 @@ export const Sketchcontainer = (props)=> {
     console.log(`Estos son los parametros ${wordsIndex.indice1}`);
     console.log(typeof(wordsIndex.indice1));
     let indices= wordsIndex.indice1.split(',');
-    console.log(`Estos son los indices después de aplicar split ${indices[0]}`)
+    console.log(`Estos son los indices después de aplicar split ${indices}`)
     console.log(`Este es el tipo de dato recibido ${typeof(indices)}`);
+    indices.pop();
     let labels2=JSON.parse(JSON.stringify(labels));
     console.log(`este es el array labels2 ${labels2[0].sentence1}`)
     let sentenceAndIndex = labels2.map((element)=>{ return {0: element.id, 1:element.sentence1 }})
