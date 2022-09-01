@@ -102,7 +102,7 @@ let color4;
 let color5;
 let Font;
 let Font2;
-let m;
+let displayTimeSentence;
 let sentences;
 rotationSpeed=1;
   rotation=1;
@@ -130,7 +130,7 @@ rotationSpeed=1;
   Font2=p.loadFont("../../assets/RobotoCondensedRegular.otf",50);
 
   /*p.textFont(Font);*/
-  m=p.millis();
+
   sentence="La casa roja emergio volando";
   for ( let i=0; i<100; i++){
     burbujas.push(new Burbuja (p.random(p.width),p.random(p.height)+20*i,p.color(48,66,200,20)));}
@@ -152,16 +152,32 @@ rotationSpeed=1;
 }
 
 p.draw=()=>{
+displayTimeSentence=p.round(p.millis()/5000);
+
+/*p.fill(250,60,20,150);      
+p.textAlign(p.CENTER);
+p.textFont(Font2,70);
+p.text(displayTimeSentence,500,500); */
+
+
+if ( displayTimeSentence< sentences.length)
+  {p.fill(250,60,20,150);      
+  p.textAlign(p.CENTER);
+  p.textFont(Font2,50);
+  p.text(sentences[displayTimeSentence],900,500); }
+  else{ p.fill(250,60,20,150);      
+    p.textAlign(p.CENTER);
+    p.textFont(Font2,50);
+    p.text("Fin de la hsitoria",900,500); }
+
+
 
   p.fill(9,2,36,70);
   p.rect(0,0,p.displayWidth, p.displayHeight);
   
    let PositionX=100;
    let PositionY=100;
-   p.fill(250,60,20,150);      
-   p.textAlign(p.CENTER);
-   p.textFont(Font2,70);
-   p.text("el sol cayo",500,500);   
+   
    
   
    for(let i=0; i<100; i++){
