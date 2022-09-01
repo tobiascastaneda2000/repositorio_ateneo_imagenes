@@ -1,17 +1,9 @@
-import { ReactP5Wrapper } from "react-p5-wrapper";
-import labels from '../labels.json'
-import { useEffect, useState } from "react";
+import React, { useState, useEffect } from "react"
 
 export function sketch(p){
   
-  console.log(typeof(labels));
-  let labels2=JSON.parse(JSON.stringify(labels));
-  console.log('este es el objeto tras ser procesado'+typeof(labels2));
-  console.log('este es el objeto tras ser procesado'+typeof(labels2[0].id));
-  let SentenceAndIndex = labels2.map((element)=>{ return [element.id, element.sentence1] })
-  console.log(SentenceAndIndex);
-  let SentenceAndIndexInImage=SentenceAndIndex.filter((element)=>{ return element[0]==20 })
-  console.log(SentenceAndIndexInImage);
+
+ 
 
 
 
@@ -111,6 +103,7 @@ let color5;
 let Font;
 let Font2;
 let m;
+let sentences;
 rotationSpeed=1;
   rotation=1;
   rotation2=360;
@@ -124,7 +117,14 @@ rotationSpeed=1;
   scale=1;
   scaleSpeed=0.003;
 
-p.setup=() =>{
+
+  p.updateWithProps = props => {
+    sentences=props.selectedSentences
+    console.log(sentences)
+  }
+
+  p.setup=() =>{
+
 
   p.createCanvas(p.displayWidth, p.displayHeight);
   Font2=p.loadFont("../../assets/RobotoCondensedRegular.otf",50);
