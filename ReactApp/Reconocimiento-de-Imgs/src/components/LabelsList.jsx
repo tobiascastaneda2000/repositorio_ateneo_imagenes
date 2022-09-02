@@ -15,6 +15,25 @@ import { LabelsItem } from "./LabelsItem";
 import  "./LabelsList.css";
 
 
+import { getStorage, ref } from "firebase/storage";
+import getFirestoreApp from "../firebase/config";
+
+// Get a reference to the storage service, which is used to create references in your storage bucket
+//const storage = getFirestoreApp();
+const storage = getStorage();
+console.log(storage)
+
+// Create a storage reference from our storage service
+const storageRef = ref(storage);
+console.log( `este es el storage ref ${Object.values(storageRef)}`)
+
+// Create a child reference
+const imagesRef = ref(storage, 'files/Images');
+//const imagesRef = ref(storage, 'o');
+//const imagesRef = ref(storage, '~2FImages.jpeg');
+//const imagesRef = ref(storage, 'gs://reconocimiento-de-imagen-644f0.appspot.com/Images');
+//console.log(imagesRef)
+// imagesRef now points to 'images'
 
 export const LabelsList = () => {
   // 
@@ -32,8 +51,14 @@ export const LabelsList = () => {
       .finally();
   }, [id]);
   console.log(ImagenesEtiquetadas)
+    // Child references can also take paths delimited by '/'
+    //const spaceRef = ref(storage, `images/${props.nameFile}`);
+    // spaceRef now points to "images/space.jpg"
+    // imagesRef still points to "images"
   return (
     <div>
+      <img src={imagesRef}></img>
+
       <ul className="labels-list">
         {ImagenesEtiquetadas.map((image) =>(    
               

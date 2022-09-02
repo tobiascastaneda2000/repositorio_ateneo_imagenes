@@ -6,15 +6,19 @@ import {BrowserRouter, Route} from 'react-router-dom';
 import { ReactP5Wrapper } from "react-p5-wrapper";
 
 
+
 export const LabelsItem = (props) => {
   console.log("estas son las propiedades "+Object.getOwnPropertyNames(props));
   console.log(`estas son las props que llegan a labelsItem ${props.labels}`);
   let indices=props.labels.map(label=> ( label.index));
   console.log(indices);
     
+
     return(
+      
     
       <li className="card">
+   
         <a href="#">{props.nameFile}</a>   
         
         <Buttonverhistoria indice={indices}> </Buttonverhistoria>
