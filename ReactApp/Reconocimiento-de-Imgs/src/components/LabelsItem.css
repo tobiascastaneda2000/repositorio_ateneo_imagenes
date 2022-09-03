@@ -1,3 +1,17 @@
+
+.container2 {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    margin: 10px;
+    position: relative;
+}
+.container2 > .img {
+    position:absolute;
+
+    min-height: 100%;
+    width: 100%;
+}
 .labels-item{
     display: flex;
 }
@@ -11,3 +25,6 @@
     padding: 2rem;
     margin-top: 10px;
 }
+
+
+
