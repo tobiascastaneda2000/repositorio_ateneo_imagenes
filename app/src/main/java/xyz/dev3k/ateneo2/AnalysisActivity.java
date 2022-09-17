@@ -21,9 +21,6 @@ import android.widget.Toast;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
-import com.google.firebase.FirebaseApp;
-import com.google.firebase.database.DatabaseReference;
-import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.firestore.DocumentReference;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.storage.FirebaseStorage;
@@ -45,11 +42,8 @@ import com.google.mlkit.vision.text.TextRecognizer;
 import com.google.mlkit.vision.text.latin.TextRecognizerOptions;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.HashMap;
+import java.util.Date;
 import java.util.List;
-import java.util.Map;
-import java.util.UUID;
 
 import xyz.dev3k.ateneo2.model.ImagenEtiquetada;
 
@@ -62,8 +56,7 @@ public class AnalysisActivity extends AppCompatActivity implements View.OnClickL
     //Reference Firebase starage
     FirebaseStorage storage = FirebaseStorage.getInstance();
     // Create a Cloud Storage reference from the app
-    StorageReference storageRef= storage.getReference();
-    // To use default options:
+    StorageReference storageRef= storage.getReference("/Images");
     ImageLabeler labeler = ImageLabeling.getClient(ImageLabelerOptions.DEFAULT_OPTIONS);
 
     TextRecognizer recognizer =
@@ -152,8 +145,9 @@ public class AnalysisActivity extends AppCompatActivity implements View.OnClickL
                             Toast.makeText(AnalysisActivity.this, text, Toast.LENGTH_SHORT).show();
                             Log.d(TAG, "Etiqueta: " + labels);
                         }
+                        String fileName = new Date().toString();
                         // Create a reference
-                        StorageReference filePath = storageRef.child(path.getPath());
+                        StorageReference filePath = storageRef.child(fileName);
 
                         filePath.putFile(path).addOnSuccessListener(new OnSuccessListener<UploadTask.TaskSnapshot>() {
                             @Override
@@ -161,12 +155,10 @@ public class AnalysisActivity extends AppCompatActivity implements View.OnClickL
                                 Toast.makeText(AnalysisActivity.this, "Imagen guardada en storage", Toast.LENGTH_SHORT).show();
                             }
                         });
-                        ImagenEtiquetada imagenEtiquetada = new ImagenEtiquetada(UUID.randomUUID().toString(), filePath.getPath(),labels);
-                        //myRef.child("ImagenesEtiquetadas").child(imagenEtiquetada.getId()).setValue(imagenEtiquetada);
-                        Map<String, Object> imagenDB = new HashMap<>();
-                        imagenDB.put(imagenEtiquetada.getId(), imagenEtiquetada);
+
+                        ImagenEtiquetada imagenEtique = new ImagenEtiquetada(labels, fileName);
                         db.collection("ImagenesEtiquetadas")
-                                .add(imagenDB)
+                                .add(imagenEtique)
                                 .addOnSuccessListener(new OnSuccessListener<DocumentReference>() {
                                     @Override
                                     public void onSuccess(DocumentReference documentReference) {

@@ -1,47 +1,31 @@
 package xyz.dev3k.ateneo2.model;
 
-import com.google.mlkit.vision.common.InputImage;
 import com.google.mlkit.vision.label.ImageLabel;
 
 import java.util.List;
 
 public class ImagenEtiquetada {
-    private String id;
-    private String path;
     private List<ImageLabel> labels;
+    private String nameFile;
 
-    public ImagenEtiquetada(String id, String path, List<ImageLabel> labels) {
-        this.id = id;
-        this.path = path;
+    public ImagenEtiquetada(List<ImageLabel> labels, String nameFile) {
         this.labels = labels;
+        this.nameFile = nameFile;
     }
 
-    public ImagenEtiquetada(String id, List<ImageLabel> labels) {
-        this.id = id;
-        this.labels = labels;
+    public String getNameFile() {
+        return nameFile;
     }
 
-    public String getId() {
-        return id;
+    public void setNameFile(String nameFile) {
+        this.nameFile = nameFile;
     }
 
-    public void setId(String id) {
-        this.id = id;
-    }
-
-    public String getPath() {
-        return path;
-    }
-
-    public void setPath(String path) {
-        this.path = path;
-    }
-
-    public List<ImageLabel> getLabel() {
+    public List<ImageLabel> getLabels() {
         return labels;
     }
 
-    public void setLabel(List<ImageLabel> labels) {
+    public void setLabels(List<ImageLabel> labels) {
         this.labels = labels;
     }
 }
