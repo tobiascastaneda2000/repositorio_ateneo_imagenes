@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Ateneo2</string>
+
     <string name="btn_capturar_img">Capturar</string>
     <string name="btn_ver_repositorio">Repositorio</string>
     <string name="txt_el_ateneo">El Ateneo</string>
@@ -15,5 +15,11 @@
     <string name="select_image_for_text_recognition">Seleccionar imagen</string>
     <string name="find_text_button">Reconocer Texto</string>
     <string name="find_face_contour_button">Reconocer cara</string>
+
+    <!-- Nuevos etiquetas -->
+    <string name="app_name">Asociacion Poetica aleatoria</string>
+    <string name="year">2022</string>
+    <string name="instructions">Breve explicativo de como funciona la aplicacion paso a paso</string>
+    <string name="button_start">Comenzar</string>
 
 </resources>
