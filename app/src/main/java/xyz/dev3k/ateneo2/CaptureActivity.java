@@ -57,6 +57,7 @@ public class CaptureActivity extends AppCompatActivity implements View.OnClickLi
     ImageAnalysis.Analyzer analizer;
     private String TAG;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -81,6 +82,18 @@ public class CaptureActivity extends AppCompatActivity implements View.OnClickLi
                 e.printStackTrace();
             }
         }, getExecutor());
+    }
+
+    //Intent AnalysisActivity
+    private void launchAnalysisActivity() {
+        Intent intent = new Intent(this, AnalysisActivity.class);
+        startActivity(intent);
+    }
+
+    //Intent WebActivity
+    public void launchWebAnalysis(View view) {
+        Intent intent = new Intent(this, WebActivity.class);
+        startActivity(intent);
     }
 
     private Executor getExecutor() {
@@ -140,10 +153,6 @@ public class CaptureActivity extends AppCompatActivity implements View.OnClickLi
         }
     }
 
-    private void launchAnalysisActivity() {
-        Intent intent = new Intent(this, AnalysisActivity.class);
-        startActivity(intent);
-    }
 
     private void capturePhoto() {
 

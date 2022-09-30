@@ -1,7 +1,7 @@
 <resources>
 
     <string name="btn_capturar_img">Capturar</string>
-    <string name="btn_ver_repositorio">Repositorio</string>
+
     <string name="txt_el_ateneo">El Ateneo</string>
     <string name="txt_espacio">Espacio de tecnologías aplicadas</string>
     <string name="take_photo">Tomar Foto</string>
@@ -16,10 +16,13 @@
     <string name="find_text_button">Reconocer Texto</string>
     <string name="find_face_contour_button">Reconocer cara</string>
 
-    <!-- Nuevos etiquetas -->
+    <!-- Etiquetas Main -->
     <string name="app_name">Asociacion Poetica aleatoria</string>
     <string name="year">2022</string>
     <string name="instructions">Breve explicativo de como funciona la aplicacion paso a paso</string>
     <string name="button_start">Comenzar</string>
+
+    <!-- Etiqueta repositorio prueba -->
+    <string name="button_web">Repositorio Web Prueba</string>
 
 </resources>
