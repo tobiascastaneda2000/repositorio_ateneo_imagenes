@@ -18,32 +18,44 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Ateneo2">
         <activity
-            android:name=".AnalysisActivity"
-            android:exported="false"
-            android:label="@string/lbl_analysis_activity"
-            android:parentActivityName=".MainActivity">
-            <meta-data
-                android:name="com.google.mlkit.vision.DEPENDENCIES"
-                android:value="ocr" />
-        </activity>
-        <activity
-            android:name=".CaptureActivity"
-            android:exported="false"
-            android:label="@string/lbl_capture_activity"
-            android:parentActivityName=".MainActivity">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="xyz.dev3k.ateneo2.MainActivity" />
-        </activity>
-        <activity
-            android:name=".MainActivity"
+            android:name=".TituleActivity"
             android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+            <!--<intent-filter>
+                  <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-    </application>
+                  <category android:name="android.intent.category.LAUNCHER" />
+              </intent-filter>-->
+          </activity>
+          <activity
+              android:name=".WebActivity"
+              android:exported="false" />
+          <activity
+              android:name=".AnalysisActivity"
+              android:exported="false"
+              android:label="@string/lbl_analysis_activity"
+              android:parentActivityName=".MainActivity">
+              <meta-data
+                  android:name="com.google.mlkit.vision.DEPENDENCIES"
+                  android:value="ocr" />
+          </activity>
+          <activity
+              android:name=".CaptureActivity"
+              android:exported="false"
+              android:label="@string/lbl_capture_activity"
+              android:parentActivityName=".MainActivity">
+              <meta-data
+                  android:name="android.support.PARENT_ACTIVITY"
+                  android:value="xyz.dev3k.ateneo2.MainActivity" />
+          </activity>
+          <activity
+              android:name=".MainActivity"
+              android:exported="true">
+              <intent-filter>
+                  <action android:name="android.intent.action.MAIN" />
 
-</manifest>
+                  <category android:name="android.intent.category.LAUNCHER" />
+              </intent-filter>
+          </activity>
+      </application>
+
+  </manifest>
