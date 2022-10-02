@@ -11,6 +11,7 @@
     <color name="blue_atn1">#3B84A2</color>
 
     <!-- Nuevos colores -->
+    <color name="black_ligth">#212121</color>
     <color name="green_ligth_atn">#44F01F</color>
     <color name="green_aquamarine_atn">#0CF76F</color>
     <color name="blue_ligth_atn">#00E0DE</color>
